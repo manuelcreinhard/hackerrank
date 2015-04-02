@@ -1,0 +1,5208 @@
+iteration: 5
+
+Printing map...
+
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+M.......................................*
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+Found the exit...
+Pre-save: 0
+x: 1 y: 38
+Paths: 3
+Save: 0
+Pre-save: 1
+x: 1 y: 37
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 1 y: 36
+Paths: 3
+Save: 1
+Pre-save: 2
+x: 1 y: 35
+Paths: -3
+Save: 2
+Pre-save: 2
+x: 1 y: 34
+Paths: 3
+Save: 2
+Pre-save: 3
+x: 1 y: 33
+Paths: -3
+Save: 3
+Pre-save: 3
+x: 1 y: 32
+Paths: 3
+Save: 3
+Pre-save: 4
+x: 1 y: 31
+Paths: -3
+Save: 4
+Pre-save: 4
+x: 1 y: 30
+Paths: 3
+Save: 4
+Pre-save: 5
+x: 1 y: 29
+Paths: -3
+Save: 5
+Pre-save: 5
+x: 1 y: 28
+Paths: 3
+Save: 5
+Pre-save: 6
+x: 1 y: 27
+Paths: -3
+Save: 6
+Pre-save: 6
+x: 1 y: 26
+Paths: 3
+Save: 6
+Pre-save: 7
+x: 1 y: 25
+Paths: -3
+Save: 7
+Pre-save: 7
+x: 1 y: 24
+Paths: 3
+Save: 7
+Pre-save: 8
+x: 1 y: 23
+Paths: -3
+Save: 8
+Pre-save: 8
+x: 1 y: 22
+Paths: 3
+Save: 8
+Pre-save: 9
+x: 1 y: 21
+Paths: -3
+Save: 9
+Pre-save: 9
+x: 1 y: 20
+Paths: 3
+Save: 9
+Pre-save: 10
+x: 1 y: 19
+Paths: -3
+Save: 10
+Pre-save: 10
+x: 1 y: 18
+Paths: 3
+Save: 10
+Pre-save: 11
+x: 1 y: 17
+Paths: -3
+Save: 11
+Pre-save: 11
+x: 1 y: 16
+Paths: 3
+Save: 11
+Pre-save: 12
+x: 1 y: 15
+Paths: -3
+Save: 12
+Pre-save: 12
+x: 1 y: 14
+Paths: 3
+Save: 12
+Pre-save: 13
+x: 1 y: 13
+Paths: -3
+Save: 13
+Pre-save: 13
+x: 1 y: 12
+Paths: 3
+Save: 13
+Pre-save: 14
+x: 1 y: 11
+Paths: -3
+Save: 14
+Pre-save: 14
+x: 1 y: 10
+Paths: 3
+Save: 14
+Pre-save: 15
+x: 1 y: 9
+Paths: -3
+Save: 15
+Pre-save: 15
+x: 1 y: 8
+Paths: 3
+Save: 15
+Pre-save: 16
+x: 1 y: 7
+Paths: -3
+Save: 16
+Pre-save: 16
+x: 1 y: 6
+Paths: 3
+Save: 16
+Pre-save: 17
+x: 1 y: 5
+Paths: -3
+Save: 17
+Pre-save: 17
+x: 1 y: 4
+Paths: 3
+Save: 17
+Pre-save: 18
+x: 1 y: 3
+Paths: -3
+Save: 18
+Pre-save: 18
+x: 1 y: 2
+Paths: 3
+Save: 18
+Pre-save: 19
+x: 1 y: 1
+Paths: -3
+Save: 19
+Pre-save: 19
+x: 1 y: 0
+Paths: 3
+Save: 19
+v: 20
+iteration: 4
+
+Printing map...
+
+..........*
+.XXXXXXXXXX
+...........
+XXXXXXXXXX.
+M..........
+Found the exit...
+Pre-save: 0
+x: 0 y: 8
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 0 y: 7
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 0 y: 6
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 0 y: 5
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 0 y: 4
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 0 y: 3
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 0 y: 2
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 0 y: 1
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 0 y: 0
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 1 y: 0
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 2 y: 0
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 2 y: 1
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 2 y: 2
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 2 y: 3
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 2 y: 4
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 2 y: 5
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 2 y: 6
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 2 y: 7
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 2 y: 8
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 2 y: 9
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 2 y: 10
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 3 y: 10
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 10
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 9
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 8
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 7
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 6
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 5
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 4
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 3
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 2
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 1
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 0
+Paths: -3
+Save: 0
+v: 0
+iteration: 3
+
+Printing map...
+
+XXXXXXXXXXXXXXXXX
+XXX.XX.XXXXXXXXXX
+XX.*..M.XXXXXXXXX
+XXX.XX.XXXXXXXXXX
+XXXXXXXXXXXXXXXXX
+Found the exit...
+Pre-save: 0
+x: 2 y: 5
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 2 y: 6
+Paths: 4
+Save: 0
+v: 1
+iteration: 2
+
+Printing map...
+
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+M........................................
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.*.......................................
+Found the exit...
+Pre-save: 0
+x: 40 y: 3
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 40 y: 4
+Paths: 2
+Save: 0
+Pre-save: 1
+x: 40 y: 5
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 40 y: 6
+Paths: 2
+Save: 1
+Pre-save: 2
+x: 40 y: 7
+Paths: -3
+Save: 2
+Pre-save: 2
+x: 40 y: 8
+Paths: 2
+Save: 2
+Pre-save: 3
+x: 40 y: 9
+Paths: -3
+Save: 3
+Pre-save: 3
+x: 40 y: 10
+Paths: 2
+Save: 3
+Pre-save: 4
+x: 40 y: 11
+Paths: -3
+Save: 4
+Pre-save: 4
+x: 40 y: 12
+Paths: 2
+Save: 4
+Pre-save: 5
+x: 40 y: 13
+Paths: -3
+Save: 5
+Pre-save: 5
+x: 40 y: 14
+Paths: 2
+Save: 5
+Pre-save: 6
+x: 40 y: 15
+Paths: -3
+Save: 6
+Pre-save: 6
+x: 40 y: 16
+Paths: 2
+Save: 6
+Pre-save: 7
+x: 40 y: 17
+Paths: -3
+Save: 7
+Pre-save: 7
+x: 40 y: 18
+Paths: 2
+Save: 7
+Pre-save: 8
+x: 40 y: 19
+Paths: -3
+Save: 8
+Pre-save: 8
+x: 40 y: 20
+Paths: 2
+Save: 8
+Pre-save: 9
+x: 40 y: 21
+Paths: -3
+Save: 9
+Pre-save: 9
+x: 40 y: 22
+Paths: 2
+Save: 9
+Pre-save: 10
+x: 40 y: 23
+Paths: -3
+Save: 10
+Pre-save: 10
+x: 40 y: 24
+Paths: 2
+Save: 10
+Pre-save: 11
+x: 40 y: 25
+Paths: -3
+Save: 11
+Pre-save: 11
+x: 40 y: 26
+Paths: 2
+Save: 11
+Pre-save: 12
+x: 40 y: 27
+Paths: -3
+Save: 12
+Pre-save: 12
+x: 40 y: 28
+Paths: 2
+Save: 12
+Pre-save: 13
+x: 40 y: 29
+Paths: -3
+Save: 13
+Pre-save: 13
+x: 40 y: 30
+Paths: 2
+Save: 13
+Pre-save: 14
+x: 40 y: 31
+Paths: -3
+Save: 14
+Pre-save: 14
+x: 40 y: 32
+Paths: 2
+Save: 14
+Pre-save: 15
+x: 40 y: 33
+Paths: -3
+Save: 15
+Pre-save: 15
+x: 40 y: 34
+Paths: 2
+Save: 15
+Pre-save: 16
+x: 40 y: 35
+Paths: -3
+Save: 16
+Pre-save: 16
+x: 40 y: 36
+Paths: 2
+Save: 16
+Pre-save: 17
+x: 40 y: 37
+Paths: -3
+Save: 17
+Pre-save: 17
+x: 40 y: 38
+Paths: 2
+Save: 17
+Pre-save: 18
+x: 40 y: 39
+Paths: -3
+Save: 18
+Pre-save: 18
+x: 40 y: 40
+Paths: -3
+Save: 18
+Pre-save: 18
+x: 39 y: 40
+Paths: -3
+Save: 18
+Pre-save: 18
+x: 38 y: 40
+Paths: -3
+Save: 18
+Pre-save: 18
+x: 37 y: 40
+Paths: 2
+Save: 18
+Pre-save: 19
+x: 37 y: 39
+Paths: -3
+Save: 19
+Pre-save: 19
+x: 37 y: 38
+Paths: 2
+Save: 19
+Pre-save: 20
+x: 37 y: 37
+Paths: -3
+Save: 20
+Pre-save: 20
+x: 37 y: 36
+Paths: 2
+Save: 20
+Pre-save: 21
+x: 37 y: 35
+Paths: -3
+Save: 21
+Pre-save: 21
+x: 37 y: 34
+Paths: 2
+Save: 21
+Pre-save: 22
+x: 37 y: 33
+Paths: -3
+Save: 22
+Pre-save: 22
+x: 37 y: 32
+Paths: 2
+Save: 22
+Pre-save: 23
+x: 37 y: 31
+Paths: -3
+Save: 23
+Pre-save: 23
+x: 37 y: 30
+Paths: 2
+Save: 23
+Pre-save: 24
+x: 37 y: 29
+Paths: -3
+Save: 24
+Pre-save: 24
+x: 37 y: 28
+Paths: 2
+Save: 24
+Pre-save: 25
+x: 37 y: 27
+Paths: -3
+Save: 25
+Pre-save: 25
+x: 37 y: 26
+Paths: 2
+Save: 25
+Pre-save: 26
+x: 37 y: 25
+Paths: -3
+Save: 26
+Pre-save: 26
+x: 37 y: 24
+Paths: 2
+Save: 26
+Pre-save: 27
+x: 37 y: 23
+Paths: -3
+Save: 27
+Pre-save: 27
+x: 37 y: 22
+Paths: 2
+Save: 27
+Pre-save: 28
+x: 37 y: 21
+Paths: -3
+Save: 28
+Pre-save: 28
+x: 37 y: 20
+Paths: 2
+Save: 28
+Pre-save: 29
+x: 37 y: 19
+Paths: -3
+Save: 29
+Pre-save: 29
+x: 37 y: 18
+Paths: 2
+Save: 29
+Pre-save: 30
+x: 37 y: 17
+Paths: -3
+Save: 30
+Pre-save: 30
+x: 37 y: 16
+Paths: 2
+Save: 30
+Pre-save: 31
+x: 37 y: 15
+Paths: -3
+Save: 31
+Pre-save: 31
+x: 37 y: 14
+Paths: 2
+Save: 31
+Pre-save: 32
+x: 37 y: 13
+Paths: -3
+Save: 32
+Pre-save: 32
+x: 37 y: 12
+Paths: 2
+Save: 32
+Pre-save: 33
+x: 37 y: 11
+Paths: -3
+Save: 33
+Pre-save: 33
+x: 37 y: 10
+Paths: 2
+Save: 33
+Pre-save: 34
+x: 37 y: 9
+Paths: -3
+Save: 34
+Pre-save: 34
+x: 37 y: 8
+Paths: 2
+Save: 34
+Pre-save: 35
+x: 37 y: 7
+Paths: -3
+Save: 35
+Pre-save: 35
+x: 37 y: 6
+Paths: 2
+Save: 35
+Pre-save: 36
+x: 37 y: 5
+Paths: -3
+Save: 36
+Pre-save: 36
+x: 37 y: 4
+Paths: 2
+Save: 36
+Pre-save: 37
+x: 37 y: 3
+Paths: -3
+Save: 37
+Pre-save: 37
+x: 37 y: 2
+Paths: 2
+Save: 37
+Pre-save: 38
+x: 37 y: 1
+Paths: -3
+Save: 38
+Pre-save: 38
+x: 37 y: 0
+Paths: -3
+Save: 38
+Pre-save: 38
+x: 36 y: 0
+Paths: -3
+Save: 38
+Pre-save: 38
+x: 35 y: 0
+Paths: -3
+Save: 38
+Pre-save: 38
+x: 34 y: 0
+Paths: 2
+Save: 38
+Pre-save: 39
+x: 34 y: 1
+Paths: -3
+Save: 39
+Pre-save: 39
+x: 34 y: 2
+Paths: 2
+Save: 39
+Pre-save: 40
+x: 34 y: 3
+Paths: -3
+Save: 40
+Pre-save: 40
+x: 34 y: 4
+Paths: 2
+Save: 40
+Pre-save: 41
+x: 34 y: 5
+Paths: -3
+Save: 41
+Pre-save: 41
+x: 34 y: 6
+Paths: 2
+Save: 41
+Pre-save: 42
+x: 34 y: 7
+Paths: -3
+Save: 42
+Pre-save: 42
+x: 34 y: 8
+Paths: 2
+Save: 42
+Pre-save: 43
+x: 34 y: 9
+Paths: -3
+Save: 43
+Pre-save: 43
+x: 34 y: 10
+Paths: 2
+Save: 43
+Pre-save: 44
+x: 34 y: 11
+Paths: -3
+Save: 44
+Pre-save: 44
+x: 34 y: 12
+Paths: 2
+Save: 44
+Pre-save: 45
+x: 34 y: 13
+Paths: -3
+Save: 45
+Pre-save: 45
+x: 34 y: 14
+Paths: 2
+Save: 45
+Pre-save: 46
+x: 34 y: 15
+Paths: -3
+Save: 46
+Pre-save: 46
+x: 34 y: 16
+Paths: 2
+Save: 46
+Pre-save: 47
+x: 34 y: 17
+Paths: -3
+Save: 47
+Pre-save: 47
+x: 34 y: 18
+Paths: 2
+Save: 47
+Pre-save: 48
+x: 34 y: 19
+Paths: -3
+Save: 48
+Pre-save: 48
+x: 34 y: 20
+Paths: 2
+Save: 48
+Pre-save: 49
+x: 34 y: 21
+Paths: -3
+Save: 49
+Pre-save: 49
+x: 34 y: 22
+Paths: 2
+Save: 49
+Pre-save: 50
+x: 34 y: 23
+Paths: -3
+Save: 50
+Pre-save: 50
+x: 34 y: 24
+Paths: 2
+Save: 50
+Pre-save: 51
+x: 34 y: 25
+Paths: -3
+Save: 51
+Pre-save: 51
+x: 34 y: 26
+Paths: 2
+Save: 51
+Pre-save: 52
+x: 34 y: 27
+Paths: -3
+Save: 52
+Pre-save: 52
+x: 34 y: 28
+Paths: 2
+Save: 52
+Pre-save: 53
+x: 34 y: 29
+Paths: -3
+Save: 53
+Pre-save: 53
+x: 34 y: 30
+Paths: 2
+Save: 53
+Pre-save: 54
+x: 34 y: 31
+Paths: -3
+Save: 54
+Pre-save: 54
+x: 34 y: 32
+Paths: 2
+Save: 54
+Pre-save: 55
+x: 34 y: 33
+Paths: -3
+Save: 55
+Pre-save: 55
+x: 34 y: 34
+Paths: 2
+Save: 55
+Pre-save: 56
+x: 34 y: 35
+Paths: -3
+Save: 56
+Pre-save: 56
+x: 34 y: 36
+Paths: 2
+Save: 56
+Pre-save: 57
+x: 34 y: 37
+Paths: -3
+Save: 57
+Pre-save: 57
+x: 34 y: 38
+Paths: 2
+Save: 57
+Pre-save: 58
+x: 34 y: 39
+Paths: -3
+Save: 58
+Pre-save: 58
+x: 34 y: 40
+Paths: -3
+Save: 58
+Pre-save: 58
+x: 33 y: 40
+Paths: -3
+Save: 58
+Pre-save: 58
+x: 32 y: 40
+Paths: -3
+Save: 58
+Pre-save: 58
+x: 31 y: 40
+Paths: 2
+Save: 58
+Pre-save: 59
+x: 31 y: 39
+Paths: -3
+Save: 59
+Pre-save: 59
+x: 31 y: 38
+Paths: 2
+Save: 59
+Pre-save: 60
+x: 31 y: 37
+Paths: -3
+Save: 60
+Pre-save: 60
+x: 31 y: 36
+Paths: 2
+Save: 60
+Pre-save: 61
+x: 31 y: 35
+Paths: -3
+Save: 61
+Pre-save: 61
+x: 31 y: 34
+Paths: 2
+Save: 61
+Pre-save: 62
+x: 31 y: 33
+Paths: -3
+Save: 62
+Pre-save: 62
+x: 31 y: 32
+Paths: 2
+Save: 62
+Pre-save: 63
+x: 31 y: 31
+Paths: -3
+Save: 63
+Pre-save: 63
+x: 31 y: 30
+Paths: 2
+Save: 63
+Pre-save: 64
+x: 31 y: 29
+Paths: -3
+Save: 64
+Pre-save: 64
+x: 31 y: 28
+Paths: 2
+Save: 64
+Pre-save: 65
+x: 31 y: 27
+Paths: -3
+Save: 65
+Pre-save: 65
+x: 31 y: 26
+Paths: 2
+Save: 65
+Pre-save: 66
+x: 31 y: 25
+Paths: -3
+Save: 66
+Pre-save: 66
+x: 31 y: 24
+Paths: 2
+Save: 66
+Pre-save: 67
+x: 31 y: 23
+Paths: -3
+Save: 67
+Pre-save: 67
+x: 31 y: 22
+Paths: 2
+Save: 67
+Pre-save: 68
+x: 31 y: 21
+Paths: -3
+Save: 68
+Pre-save: 68
+x: 31 y: 20
+Paths: 2
+Save: 68
+Pre-save: 69
+x: 31 y: 19
+Paths: -3
+Save: 69
+Pre-save: 69
+x: 31 y: 18
+Paths: 2
+Save: 69
+Pre-save: 70
+x: 31 y: 17
+Paths: -3
+Save: 70
+Pre-save: 70
+x: 31 y: 16
+Paths: 2
+Save: 70
+Pre-save: 71
+x: 31 y: 15
+Paths: -3
+Save: 71
+Pre-save: 71
+x: 31 y: 14
+Paths: 2
+Save: 71
+Pre-save: 72
+x: 31 y: 13
+Paths: -3
+Save: 72
+Pre-save: 72
+x: 31 y: 12
+Paths: 2
+Save: 72
+Pre-save: 73
+x: 31 y: 11
+Paths: -3
+Save: 73
+Pre-save: 73
+x: 31 y: 10
+Paths: 2
+Save: 73
+Pre-save: 74
+x: 31 y: 9
+Paths: -3
+Save: 74
+Pre-save: 74
+x: 31 y: 8
+Paths: 2
+Save: 74
+Pre-save: 75
+x: 31 y: 7
+Paths: -3
+Save: 75
+Pre-save: 75
+x: 31 y: 6
+Paths: 2
+Save: 75
+Pre-save: 76
+x: 31 y: 5
+Paths: -3
+Save: 76
+Pre-save: 76
+x: 31 y: 4
+Paths: 2
+Save: 76
+Pre-save: 77
+x: 31 y: 3
+Paths: -3
+Save: 77
+Pre-save: 77
+x: 31 y: 2
+Paths: 2
+Save: 77
+Pre-save: 78
+x: 31 y: 1
+Paths: -3
+Save: 78
+Pre-save: 78
+x: 31 y: 0
+Paths: -3
+Save: 78
+Pre-save: 78
+x: 30 y: 0
+Paths: -3
+Save: 78
+Pre-save: 78
+x: 29 y: 0
+Paths: -3
+Save: 78
+Pre-save: 78
+x: 28 y: 0
+Paths: 2
+Save: 78
+Pre-save: 79
+x: 28 y: 1
+Paths: -3
+Save: 79
+Pre-save: 79
+x: 28 y: 2
+Paths: 2
+Save: 79
+Pre-save: 80
+x: 28 y: 3
+Paths: -3
+Save: 80
+Pre-save: 80
+x: 28 y: 4
+Paths: 2
+Save: 80
+Pre-save: 81
+x: 28 y: 5
+Paths: -3
+Save: 81
+Pre-save: 81
+x: 28 y: 6
+Paths: 2
+Save: 81
+Pre-save: 82
+x: 28 y: 7
+Paths: -3
+Save: 82
+Pre-save: 82
+x: 28 y: 8
+Paths: 2
+Save: 82
+Pre-save: 83
+x: 28 y: 9
+Paths: -3
+Save: 83
+Pre-save: 83
+x: 28 y: 10
+Paths: 2
+Save: 83
+Pre-save: 84
+x: 28 y: 11
+Paths: -3
+Save: 84
+Pre-save: 84
+x: 28 y: 12
+Paths: 2
+Save: 84
+Pre-save: 85
+x: 28 y: 13
+Paths: -3
+Save: 85
+Pre-save: 85
+x: 28 y: 14
+Paths: 2
+Save: 85
+Pre-save: 86
+x: 28 y: 15
+Paths: -3
+Save: 86
+Pre-save: 86
+x: 28 y: 16
+Paths: 2
+Save: 86
+Pre-save: 87
+x: 28 y: 17
+Paths: -3
+Save: 87
+Pre-save: 87
+x: 28 y: 18
+Paths: 2
+Save: 87
+Pre-save: 88
+x: 28 y: 19
+Paths: -3
+Save: 88
+Pre-save: 88
+x: 28 y: 20
+Paths: 2
+Save: 88
+Pre-save: 89
+x: 28 y: 21
+Paths: -3
+Save: 89
+Pre-save: 89
+x: 28 y: 22
+Paths: 2
+Save: 89
+Pre-save: 90
+x: 28 y: 23
+Paths: -3
+Save: 90
+Pre-save: 90
+x: 28 y: 24
+Paths: 2
+Save: 90
+Pre-save: 91
+x: 28 y: 25
+Paths: -3
+Save: 91
+Pre-save: 91
+x: 28 y: 26
+Paths: 2
+Save: 91
+Pre-save: 92
+x: 28 y: 27
+Paths: -3
+Save: 92
+Pre-save: 92
+x: 28 y: 28
+Paths: 2
+Save: 92
+Pre-save: 93
+x: 28 y: 29
+Paths: -3
+Save: 93
+Pre-save: 93
+x: 28 y: 30
+Paths: 2
+Save: 93
+Pre-save: 94
+x: 28 y: 31
+Paths: -3
+Save: 94
+Pre-save: 94
+x: 28 y: 32
+Paths: 2
+Save: 94
+Pre-save: 95
+x: 28 y: 33
+Paths: -3
+Save: 95
+Pre-save: 95
+x: 28 y: 34
+Paths: 2
+Save: 95
+Pre-save: 96
+x: 28 y: 35
+Paths: -3
+Save: 96
+Pre-save: 96
+x: 28 y: 36
+Paths: 2
+Save: 96
+Pre-save: 97
+x: 28 y: 37
+Paths: -3
+Save: 97
+Pre-save: 97
+x: 28 y: 38
+Paths: 2
+Save: 97
+Pre-save: 98
+x: 28 y: 39
+Paths: -3
+Save: 98
+Pre-save: 98
+x: 28 y: 40
+Paths: -3
+Save: 98
+Pre-save: 98
+x: 27 y: 40
+Paths: -3
+Save: 98
+Pre-save: 98
+x: 26 y: 40
+Paths: -3
+Save: 98
+Pre-save: 98
+x: 25 y: 40
+Paths: 2
+Save: 98
+Pre-save: 99
+x: 25 y: 39
+Paths: -3
+Save: 99
+Pre-save: 99
+x: 25 y: 38
+Paths: 2
+Save: 99
+Pre-save: 100
+x: 25 y: 37
+Paths: -3
+Save: 100
+Pre-save: 100
+x: 25 y: 36
+Paths: 2
+Save: 100
+Pre-save: 101
+x: 25 y: 35
+Paths: -3
+Save: 101
+Pre-save: 101
+x: 25 y: 34
+Paths: 2
+Save: 101
+Pre-save: 102
+x: 25 y: 33
+Paths: -3
+Save: 102
+Pre-save: 102
+x: 25 y: 32
+Paths: 2
+Save: 102
+Pre-save: 103
+x: 25 y: 31
+Paths: -3
+Save: 103
+Pre-save: 103
+x: 25 y: 30
+Paths: 2
+Save: 103
+Pre-save: 104
+x: 25 y: 29
+Paths: -3
+Save: 104
+Pre-save: 104
+x: 25 y: 28
+Paths: 2
+Save: 104
+Pre-save: 105
+x: 25 y: 27
+Paths: -3
+Save: 105
+Pre-save: 105
+x: 25 y: 26
+Paths: 2
+Save: 105
+Pre-save: 106
+x: 25 y: 25
+Paths: -3
+Save: 106
+Pre-save: 106
+x: 25 y: 24
+Paths: 2
+Save: 106
+Pre-save: 107
+x: 25 y: 23
+Paths: -3
+Save: 107
+Pre-save: 107
+x: 25 y: 22
+Paths: 2
+Save: 107
+Pre-save: 108
+x: 25 y: 21
+Paths: -3
+Save: 108
+Pre-save: 108
+x: 25 y: 20
+Paths: 2
+Save: 108
+Pre-save: 109
+x: 25 y: 19
+Paths: -3
+Save: 109
+Pre-save: 109
+x: 25 y: 18
+Paths: 2
+Save: 109
+Pre-save: 110
+x: 25 y: 17
+Paths: -3
+Save: 110
+Pre-save: 110
+x: 25 y: 16
+Paths: 2
+Save: 110
+Pre-save: 111
+x: 25 y: 15
+Paths: -3
+Save: 111
+Pre-save: 111
+x: 25 y: 14
+Paths: 2
+Save: 111
+Pre-save: 112
+x: 25 y: 13
+Paths: -3
+Save: 112
+Pre-save: 112
+x: 25 y: 12
+Paths: 2
+Save: 112
+Pre-save: 113
+x: 25 y: 11
+Paths: -3
+Save: 113
+Pre-save: 113
+x: 25 y: 10
+Paths: 2
+Save: 113
+Pre-save: 114
+x: 25 y: 9
+Paths: -3
+Save: 114
+Pre-save: 114
+x: 25 y: 8
+Paths: 2
+Save: 114
+Pre-save: 115
+x: 25 y: 7
+Paths: -3
+Save: 115
+Pre-save: 115
+x: 25 y: 6
+Paths: 2
+Save: 115
+Pre-save: 116
+x: 25 y: 5
+Paths: -3
+Save: 116
+Pre-save: 116
+x: 25 y: 4
+Paths: 2
+Save: 116
+Pre-save: 117
+x: 25 y: 3
+Paths: -3
+Save: 117
+Pre-save: 117
+x: 25 y: 2
+Paths: 2
+Save: 117
+Pre-save: 118
+x: 25 y: 1
+Paths: -3
+Save: 118
+Pre-save: 118
+x: 25 y: 0
+Paths: -3
+Save: 118
+Pre-save: 118
+x: 24 y: 0
+Paths: -3
+Save: 118
+Pre-save: 118
+x: 23 y: 0
+Paths: -3
+Save: 118
+Pre-save: 118
+x: 22 y: 0
+Paths: 2
+Save: 118
+Pre-save: 119
+x: 22 y: 1
+Paths: -3
+Save: 119
+Pre-save: 119
+x: 22 y: 2
+Paths: 2
+Save: 119
+Pre-save: 120
+x: 22 y: 3
+Paths: -3
+Save: 120
+Pre-save: 120
+x: 22 y: 4
+Paths: 2
+Save: 120
+Pre-save: 121
+x: 22 y: 5
+Paths: -3
+Save: 121
+Pre-save: 121
+x: 22 y: 6
+Paths: 2
+Save: 121
+Pre-save: 122
+x: 22 y: 7
+Paths: -3
+Save: 122
+Pre-save: 122
+x: 22 y: 8
+Paths: 2
+Save: 122
+Pre-save: 123
+x: 22 y: 9
+Paths: -3
+Save: 123
+Pre-save: 123
+x: 22 y: 10
+Paths: 2
+Save: 123
+Pre-save: 124
+x: 22 y: 11
+Paths: -3
+Save: 124
+Pre-save: 124
+x: 22 y: 12
+Paths: 2
+Save: 124
+Pre-save: 125
+x: 22 y: 13
+Paths: -3
+Save: 125
+Pre-save: 125
+x: 22 y: 14
+Paths: 2
+Save: 125
+Pre-save: 126
+x: 22 y: 15
+Paths: -3
+Save: 126
+Pre-save: 126
+x: 22 y: 16
+Paths: 2
+Save: 126
+Pre-save: 127
+x: 22 y: 17
+Paths: -3
+Save: 127
+Pre-save: 127
+x: 22 y: 18
+Paths: 2
+Save: 127
+Pre-save: 128
+x: 22 y: 19
+Paths: -3
+Save: 128
+Pre-save: 128
+x: 22 y: 20
+Paths: 2
+Save: 128
+Pre-save: 129
+x: 22 y: 21
+Paths: -3
+Save: 129
+Pre-save: 129
+x: 22 y: 22
+Paths: 2
+Save: 129
+Pre-save: 130
+x: 22 y: 23
+Paths: -3
+Save: 130
+Pre-save: 130
+x: 22 y: 24
+Paths: 2
+Save: 130
+Pre-save: 131
+x: 22 y: 25
+Paths: -3
+Save: 131
+Pre-save: 131
+x: 22 y: 26
+Paths: 2
+Save: 131
+Pre-save: 132
+x: 22 y: 27
+Paths: -3
+Save: 132
+Pre-save: 132
+x: 22 y: 28
+Paths: 2
+Save: 132
+Pre-save: 133
+x: 22 y: 29
+Paths: -3
+Save: 133
+Pre-save: 133
+x: 22 y: 30
+Paths: 2
+Save: 133
+Pre-save: 134
+x: 22 y: 31
+Paths: -3
+Save: 134
+Pre-save: 134
+x: 22 y: 32
+Paths: 2
+Save: 134
+Pre-save: 135
+x: 22 y: 33
+Paths: -3
+Save: 135
+Pre-save: 135
+x: 22 y: 34
+Paths: 2
+Save: 135
+Pre-save: 136
+x: 22 y: 35
+Paths: -3
+Save: 136
+Pre-save: 136
+x: 22 y: 36
+Paths: 2
+Save: 136
+Pre-save: 137
+x: 22 y: 37
+Paths: -3
+Save: 137
+Pre-save: 137
+x: 22 y: 38
+Paths: 2
+Save: 137
+Pre-save: 138
+x: 22 y: 39
+Paths: -3
+Save: 138
+Pre-save: 138
+x: 22 y: 40
+Paths: -3
+Save: 138
+Pre-save: 138
+x: 21 y: 40
+Paths: -3
+Save: 138
+Pre-save: 138
+x: 20 y: 40
+Paths: -3
+Save: 138
+Pre-save: 138
+x: 19 y: 40
+Paths: 2
+Save: 138
+Pre-save: 139
+x: 19 y: 39
+Paths: -3
+Save: 139
+Pre-save: 139
+x: 19 y: 38
+Paths: 2
+Save: 139
+Pre-save: 140
+x: 19 y: 37
+Paths: -3
+Save: 140
+Pre-save: 140
+x: 19 y: 36
+Paths: 2
+Save: 140
+Pre-save: 141
+x: 19 y: 35
+Paths: -3
+Save: 141
+Pre-save: 141
+x: 19 y: 34
+Paths: 2
+Save: 141
+Pre-save: 142
+x: 19 y: 33
+Paths: -3
+Save: 142
+Pre-save: 142
+x: 19 y: 32
+Paths: 2
+Save: 142
+Pre-save: 143
+x: 19 y: 31
+Paths: -3
+Save: 143
+Pre-save: 143
+x: 19 y: 30
+Paths: 2
+Save: 143
+Pre-save: 144
+x: 19 y: 29
+Paths: -3
+Save: 144
+Pre-save: 144
+x: 19 y: 28
+Paths: 2
+Save: 144
+Pre-save: 145
+x: 19 y: 27
+Paths: -3
+Save: 145
+Pre-save: 145
+x: 19 y: 26
+Paths: 2
+Save: 145
+Pre-save: 146
+x: 19 y: 25
+Paths: -3
+Save: 146
+Pre-save: 146
+x: 19 y: 24
+Paths: 2
+Save: 146
+Pre-save: 147
+x: 19 y: 23
+Paths: -3
+Save: 147
+Pre-save: 147
+x: 19 y: 22
+Paths: 2
+Save: 147
+Pre-save: 148
+x: 19 y: 21
+Paths: -3
+Save: 148
+Pre-save: 148
+x: 19 y: 20
+Paths: 2
+Save: 148
+Pre-save: 149
+x: 19 y: 19
+Paths: -3
+Save: 149
+Pre-save: 149
+x: 19 y: 18
+Paths: 2
+Save: 149
+Pre-save: 150
+x: 19 y: 17
+Paths: -3
+Save: 150
+Pre-save: 150
+x: 19 y: 16
+Paths: 2
+Save: 150
+Pre-save: 151
+x: 19 y: 15
+Paths: -3
+Save: 151
+Pre-save: 151
+x: 19 y: 14
+Paths: 2
+Save: 151
+Pre-save: 152
+x: 19 y: 13
+Paths: -3
+Save: 152
+Pre-save: 152
+x: 19 y: 12
+Paths: 2
+Save: 152
+Pre-save: 153
+x: 19 y: 11
+Paths: -3
+Save: 153
+Pre-save: 153
+x: 19 y: 10
+Paths: 2
+Save: 153
+Pre-save: 154
+x: 19 y: 9
+Paths: -3
+Save: 154
+Pre-save: 154
+x: 19 y: 8
+Paths: 2
+Save: 154
+Pre-save: 155
+x: 19 y: 7
+Paths: -3
+Save: 155
+Pre-save: 155
+x: 19 y: 6
+Paths: 2
+Save: 155
+Pre-save: 156
+x: 19 y: 5
+Paths: -3
+Save: 156
+Pre-save: 156
+x: 19 y: 4
+Paths: 2
+Save: 156
+Pre-save: 157
+x: 19 y: 3
+Paths: -3
+Save: 157
+Pre-save: 157
+x: 19 y: 2
+Paths: 2
+Save: 157
+Pre-save: 158
+x: 19 y: 1
+Paths: -3
+Save: 158
+Pre-save: 158
+x: 19 y: 0
+Paths: -3
+Save: 158
+Pre-save: 158
+x: 18 y: 0
+Paths: -3
+Save: 158
+Pre-save: 158
+x: 17 y: 0
+Paths: -3
+Save: 158
+Pre-save: 158
+x: 16 y: 0
+Paths: 2
+Save: 158
+Pre-save: 159
+x: 16 y: 1
+Paths: -3
+Save: 159
+Pre-save: 159
+x: 16 y: 2
+Paths: 2
+Save: 159
+Pre-save: 160
+x: 16 y: 3
+Paths: -3
+Save: 160
+Pre-save: 160
+x: 16 y: 4
+Paths: 2
+Save: 160
+Pre-save: 161
+x: 16 y: 5
+Paths: -3
+Save: 161
+Pre-save: 161
+x: 16 y: 6
+Paths: 2
+Save: 161
+Pre-save: 162
+x: 16 y: 7
+Paths: -3
+Save: 162
+Pre-save: 162
+x: 16 y: 8
+Paths: 2
+Save: 162
+Pre-save: 163
+x: 16 y: 9
+Paths: -3
+Save: 163
+Pre-save: 163
+x: 16 y: 10
+Paths: 2
+Save: 163
+Pre-save: 164
+x: 16 y: 11
+Paths: -3
+Save: 164
+Pre-save: 164
+x: 16 y: 12
+Paths: 2
+Save: 164
+Pre-save: 165
+x: 16 y: 13
+Paths: -3
+Save: 165
+Pre-save: 165
+x: 16 y: 14
+Paths: 2
+Save: 165
+Pre-save: 166
+x: 16 y: 15
+Paths: -3
+Save: 166
+Pre-save: 166
+x: 16 y: 16
+Paths: 2
+Save: 166
+Pre-save: 167
+x: 16 y: 17
+Paths: -3
+Save: 167
+Pre-save: 167
+x: 16 y: 18
+Paths: 2
+Save: 167
+Pre-save: 168
+x: 16 y: 19
+Paths: -3
+Save: 168
+Pre-save: 168
+x: 16 y: 20
+Paths: 2
+Save: 168
+Pre-save: 169
+x: 16 y: 21
+Paths: -3
+Save: 169
+Pre-save: 169
+x: 16 y: 22
+Paths: 2
+Save: 169
+Pre-save: 170
+x: 16 y: 23
+Paths: -3
+Save: 170
+Pre-save: 170
+x: 16 y: 24
+Paths: 2
+Save: 170
+Pre-save: 171
+x: 16 y: 25
+Paths: -3
+Save: 171
+Pre-save: 171
+x: 16 y: 26
+Paths: 2
+Save: 171
+Pre-save: 172
+x: 16 y: 27
+Paths: -3
+Save: 172
+Pre-save: 172
+x: 16 y: 28
+Paths: 2
+Save: 172
+Pre-save: 173
+x: 16 y: 29
+Paths: -3
+Save: 173
+Pre-save: 173
+x: 16 y: 30
+Paths: 2
+Save: 173
+Pre-save: 174
+x: 16 y: 31
+Paths: -3
+Save: 174
+Pre-save: 174
+x: 16 y: 32
+Paths: 2
+Save: 174
+Pre-save: 175
+x: 16 y: 33
+Paths: -3
+Save: 175
+Pre-save: 175
+x: 16 y: 34
+Paths: 2
+Save: 175
+Pre-save: 176
+x: 16 y: 35
+Paths: -3
+Save: 176
+Pre-save: 176
+x: 16 y: 36
+Paths: 2
+Save: 176
+Pre-save: 177
+x: 16 y: 37
+Paths: -3
+Save: 177
+Pre-save: 177
+x: 16 y: 38
+Paths: 2
+Save: 177
+Pre-save: 178
+x: 16 y: 39
+Paths: -3
+Save: 178
+Pre-save: 178
+x: 16 y: 40
+Paths: -3
+Save: 178
+Pre-save: 178
+x: 15 y: 40
+Paths: -3
+Save: 178
+Pre-save: 178
+x: 14 y: 40
+Paths: -3
+Save: 178
+Pre-save: 178
+x: 13 y: 40
+Paths: 2
+Save: 178
+Pre-save: 179
+x: 13 y: 39
+Paths: -3
+Save: 179
+Pre-save: 179
+x: 13 y: 38
+Paths: 2
+Save: 179
+Pre-save: 180
+x: 13 y: 37
+Paths: -3
+Save: 180
+Pre-save: 180
+x: 13 y: 36
+Paths: 2
+Save: 180
+Pre-save: 181
+x: 13 y: 35
+Paths: -3
+Save: 181
+Pre-save: 181
+x: 13 y: 34
+Paths: 2
+Save: 181
+Pre-save: 182
+x: 13 y: 33
+Paths: -3
+Save: 182
+Pre-save: 182
+x: 13 y: 32
+Paths: 2
+Save: 182
+Pre-save: 183
+x: 13 y: 31
+Paths: -3
+Save: 183
+Pre-save: 183
+x: 13 y: 30
+Paths: 2
+Save: 183
+Pre-save: 184
+x: 13 y: 29
+Paths: -3
+Save: 184
+Pre-save: 184
+x: 13 y: 28
+Paths: 2
+Save: 184
+Pre-save: 185
+x: 13 y: 27
+Paths: -3
+Save: 185
+Pre-save: 185
+x: 13 y: 26
+Paths: 2
+Save: 185
+Pre-save: 186
+x: 13 y: 25
+Paths: -3
+Save: 186
+Pre-save: 186
+x: 13 y: 24
+Paths: 2
+Save: 186
+Pre-save: 187
+x: 13 y: 23
+Paths: -3
+Save: 187
+Pre-save: 187
+x: 13 y: 22
+Paths: 2
+Save: 187
+Pre-save: 188
+x: 13 y: 21
+Paths: -3
+Save: 188
+Pre-save: 188
+x: 13 y: 20
+Paths: 2
+Save: 188
+Pre-save: 189
+x: 13 y: 19
+Paths: -3
+Save: 189
+Pre-save: 189
+x: 13 y: 18
+Paths: 2
+Save: 189
+Pre-save: 190
+x: 13 y: 17
+Paths: -3
+Save: 190
+Pre-save: 190
+x: 13 y: 16
+Paths: 2
+Save: 190
+Pre-save: 191
+x: 13 y: 15
+Paths: -3
+Save: 191
+Pre-save: 191
+x: 13 y: 14
+Paths: 2
+Save: 191
+Pre-save: 192
+x: 13 y: 13
+Paths: -3
+Save: 192
+Pre-save: 192
+x: 13 y: 12
+Paths: 2
+Save: 192
+Pre-save: 193
+x: 13 y: 11
+Paths: -3
+Save: 193
+Pre-save: 193
+x: 13 y: 10
+Paths: 2
+Save: 193
+Pre-save: 194
+x: 13 y: 9
+Paths: -3
+Save: 194
+Pre-save: 194
+x: 13 y: 8
+Paths: 2
+Save: 194
+Pre-save: 195
+x: 13 y: 7
+Paths: -3
+Save: 195
+Pre-save: 195
+x: 13 y: 6
+Paths: 2
+Save: 195
+Pre-save: 196
+x: 13 y: 5
+Paths: -3
+Save: 196
+Pre-save: 196
+x: 13 y: 4
+Paths: 2
+Save: 196
+Pre-save: 197
+x: 13 y: 3
+Paths: -3
+Save: 197
+Pre-save: 197
+x: 13 y: 2
+Paths: 2
+Save: 197
+Pre-save: 198
+x: 13 y: 1
+Paths: -3
+Save: 198
+Pre-save: 198
+x: 13 y: 0
+Paths: -3
+Save: 198
+Pre-save: 198
+x: 12 y: 0
+Paths: -3
+Save: 198
+Pre-save: 198
+x: 11 y: 0
+Paths: -3
+Save: 198
+Pre-save: 198
+x: 10 y: 0
+Paths: 2
+Save: 198
+Pre-save: 199
+x: 10 y: 1
+Paths: -3
+Save: 199
+Pre-save: 199
+x: 10 y: 2
+Paths: 2
+Save: 199
+Pre-save: 200
+x: 10 y: 3
+Paths: -3
+Save: 200
+Pre-save: 200
+x: 10 y: 4
+Paths: 2
+Save: 200
+Pre-save: 201
+x: 10 y: 5
+Paths: -3
+Save: 201
+Pre-save: 201
+x: 10 y: 6
+Paths: 2
+Save: 201
+Pre-save: 202
+x: 10 y: 7
+Paths: -3
+Save: 202
+Pre-save: 202
+x: 10 y: 8
+Paths: 2
+Save: 202
+Pre-save: 203
+x: 10 y: 9
+Paths: -3
+Save: 203
+Pre-save: 203
+x: 10 y: 10
+Paths: 2
+Save: 203
+Pre-save: 204
+x: 10 y: 11
+Paths: -3
+Save: 204
+Pre-save: 204
+x: 10 y: 12
+Paths: 2
+Save: 204
+Pre-save: 205
+x: 10 y: 13
+Paths: -3
+Save: 205
+Pre-save: 205
+x: 10 y: 14
+Paths: 2
+Save: 205
+Pre-save: 206
+x: 10 y: 15
+Paths: -3
+Save: 206
+Pre-save: 206
+x: 10 y: 16
+Paths: 2
+Save: 206
+Pre-save: 207
+x: 10 y: 17
+Paths: -3
+Save: 207
+Pre-save: 207
+x: 10 y: 18
+Paths: 2
+Save: 207
+Pre-save: 208
+x: 10 y: 19
+Paths: -3
+Save: 208
+Pre-save: 208
+x: 10 y: 20
+Paths: 2
+Save: 208
+Pre-save: 209
+x: 10 y: 21
+Paths: -3
+Save: 209
+Pre-save: 209
+x: 10 y: 22
+Paths: 2
+Save: 209
+Pre-save: 210
+x: 10 y: 23
+Paths: -3
+Save: 210
+Pre-save: 210
+x: 10 y: 24
+Paths: 2
+Save: 210
+Pre-save: 211
+x: 10 y: 25
+Paths: -3
+Save: 211
+Pre-save: 211
+x: 10 y: 26
+Paths: 2
+Save: 211
+Pre-save: 212
+x: 10 y: 27
+Paths: -3
+Save: 212
+Pre-save: 212
+x: 10 y: 28
+Paths: 2
+Save: 212
+Pre-save: 213
+x: 10 y: 29
+Paths: -3
+Save: 213
+Pre-save: 213
+x: 10 y: 30
+Paths: 2
+Save: 213
+Pre-save: 214
+x: 10 y: 31
+Paths: -3
+Save: 214
+Pre-save: 214
+x: 10 y: 32
+Paths: 2
+Save: 214
+Pre-save: 215
+x: 10 y: 33
+Paths: -3
+Save: 215
+Pre-save: 215
+x: 10 y: 34
+Paths: 2
+Save: 215
+Pre-save: 216
+x: 10 y: 35
+Paths: -3
+Save: 216
+Pre-save: 216
+x: 10 y: 36
+Paths: 2
+Save: 216
+Pre-save: 217
+x: 10 y: 37
+Paths: -3
+Save: 217
+Pre-save: 217
+x: 10 y: 38
+Paths: 2
+Save: 217
+Pre-save: 218
+x: 10 y: 39
+Paths: -3
+Save: 218
+Pre-save: 218
+x: 10 y: 40
+Paths: -3
+Save: 218
+Pre-save: 218
+x: 9 y: 40
+Paths: -3
+Save: 218
+Pre-save: 218
+x: 8 y: 40
+Paths: -3
+Save: 218
+Pre-save: 218
+x: 7 y: 40
+Paths: 2
+Save: 218
+Pre-save: 219
+x: 7 y: 39
+Paths: -3
+Save: 219
+Pre-save: 219
+x: 7 y: 38
+Paths: 2
+Save: 219
+Pre-save: 220
+x: 7 y: 37
+Paths: -3
+Save: 220
+Pre-save: 220
+x: 7 y: 36
+Paths: 2
+Save: 220
+Pre-save: 221
+x: 7 y: 35
+Paths: -3
+Save: 221
+Pre-save: 221
+x: 7 y: 34
+Paths: 2
+Save: 221
+Pre-save: 222
+x: 7 y: 33
+Paths: -3
+Save: 222
+Pre-save: 222
+x: 7 y: 32
+Paths: 2
+Save: 222
+Pre-save: 223
+x: 7 y: 31
+Paths: -3
+Save: 223
+Pre-save: 223
+x: 7 y: 30
+Paths: 2
+Save: 223
+Pre-save: 224
+x: 7 y: 29
+Paths: -3
+Save: 224
+Pre-save: 224
+x: 7 y: 28
+Paths: 2
+Save: 224
+Pre-save: 225
+x: 7 y: 27
+Paths: -3
+Save: 225
+Pre-save: 225
+x: 7 y: 26
+Paths: 2
+Save: 225
+Pre-save: 226
+x: 7 y: 25
+Paths: -3
+Save: 226
+Pre-save: 226
+x: 7 y: 24
+Paths: 2
+Save: 226
+Pre-save: 227
+x: 7 y: 23
+Paths: -3
+Save: 227
+Pre-save: 227
+x: 7 y: 22
+Paths: 2
+Save: 227
+Pre-save: 228
+x: 7 y: 21
+Paths: -3
+Save: 228
+Pre-save: 228
+x: 7 y: 20
+Paths: 2
+Save: 228
+Pre-save: 229
+x: 7 y: 19
+Paths: -3
+Save: 229
+Pre-save: 229
+x: 7 y: 18
+Paths: 2
+Save: 229
+Pre-save: 230
+x: 7 y: 17
+Paths: -3
+Save: 230
+Pre-save: 230
+x: 7 y: 16
+Paths: 2
+Save: 230
+Pre-save: 231
+x: 7 y: 15
+Paths: -3
+Save: 231
+Pre-save: 231
+x: 7 y: 14
+Paths: 2
+Save: 231
+Pre-save: 232
+x: 7 y: 13
+Paths: -3
+Save: 232
+Pre-save: 232
+x: 7 y: 12
+Paths: 2
+Save: 232
+Pre-save: 233
+x: 7 y: 11
+Paths: -3
+Save: 233
+Pre-save: 233
+x: 7 y: 10
+Paths: 2
+Save: 233
+Pre-save: 234
+x: 7 y: 9
+Paths: -3
+Save: 234
+Pre-save: 234
+x: 7 y: 8
+Paths: 2
+Save: 234
+Pre-save: 235
+x: 7 y: 7
+Paths: -3
+Save: 235
+Pre-save: 235
+x: 7 y: 6
+Paths: 2
+Save: 235
+Pre-save: 236
+x: 7 y: 5
+Paths: -3
+Save: 236
+Pre-save: 236
+x: 7 y: 4
+Paths: 2
+Save: 236
+Pre-save: 237
+x: 7 y: 3
+Paths: -3
+Save: 237
+Pre-save: 237
+x: 7 y: 2
+Paths: 2
+Save: 237
+Pre-save: 238
+x: 7 y: 1
+Paths: -3
+Save: 238
+Pre-save: 238
+x: 7 y: 0
+Paths: -3
+Save: 238
+Pre-save: 238
+x: 6 y: 0
+Paths: -3
+Save: 238
+Pre-save: 238
+x: 5 y: 0
+Paths: -3
+Save: 238
+Pre-save: 238
+x: 4 y: 0
+Paths: 2
+Save: 238
+Pre-save: 239
+x: 4 y: 1
+Paths: -3
+Save: 239
+Pre-save: 239
+x: 4 y: 2
+Paths: 2
+Save: 239
+Pre-save: 240
+x: 4 y: 3
+Paths: -3
+Save: 240
+Pre-save: 240
+x: 4 y: 4
+Paths: 2
+Save: 240
+Pre-save: 241
+x: 4 y: 5
+Paths: -3
+Save: 241
+Pre-save: 241
+x: 4 y: 6
+Paths: 2
+Save: 241
+Pre-save: 242
+x: 4 y: 7
+Paths: -3
+Save: 242
+Pre-save: 242
+x: 4 y: 8
+Paths: 2
+Save: 242
+Pre-save: 243
+x: 4 y: 9
+Paths: -3
+Save: 243
+Pre-save: 243
+x: 4 y: 10
+Paths: 2
+Save: 243
+Pre-save: 244
+x: 4 y: 11
+Paths: -3
+Save: 244
+Pre-save: 244
+x: 4 y: 12
+Paths: 2
+Save: 244
+Pre-save: 245
+x: 4 y: 13
+Paths: -3
+Save: 245
+Pre-save: 245
+x: 4 y: 14
+Paths: 2
+Save: 245
+Pre-save: 246
+x: 4 y: 15
+Paths: -3
+Save: 246
+Pre-save: 246
+x: 4 y: 16
+Paths: 2
+Save: 246
+Pre-save: 247
+x: 4 y: 17
+Paths: -3
+Save: 247
+Pre-save: 247
+x: 4 y: 18
+Paths: 2
+Save: 247
+Pre-save: 248
+x: 4 y: 19
+Paths: -3
+Save: 248
+Pre-save: 248
+x: 4 y: 20
+Paths: 2
+Save: 248
+Pre-save: 249
+x: 4 y: 21
+Paths: -3
+Save: 249
+Pre-save: 249
+x: 4 y: 22
+Paths: 2
+Save: 249
+Pre-save: 250
+x: 4 y: 23
+Paths: -3
+Save: 250
+Pre-save: 250
+x: 4 y: 24
+Paths: 2
+Save: 250
+Pre-save: 251
+x: 4 y: 25
+Paths: -3
+Save: 251
+Pre-save: 251
+x: 4 y: 26
+Paths: 2
+Save: 251
+Pre-save: 252
+x: 4 y: 27
+Paths: -3
+Save: 252
+Pre-save: 252
+x: 4 y: 28
+Paths: 2
+Save: 252
+Pre-save: 253
+x: 4 y: 29
+Paths: -3
+Save: 253
+Pre-save: 253
+x: 4 y: 30
+Paths: 2
+Save: 253
+Pre-save: 254
+x: 4 y: 31
+Paths: -3
+Save: 254
+Pre-save: 254
+x: 4 y: 32
+Paths: 2
+Save: 254
+Pre-save: 255
+x: 4 y: 33
+Paths: -3
+Save: 255
+Pre-save: 255
+x: 4 y: 34
+Paths: 2
+Save: 255
+Pre-save: 256
+x: 4 y: 35
+Paths: -3
+Save: 256
+Pre-save: 256
+x: 4 y: 36
+Paths: 2
+Save: 256
+Pre-save: 257
+x: 4 y: 37
+Paths: -3
+Save: 257
+Pre-save: 257
+x: 4 y: 38
+Paths: 2
+Save: 257
+Pre-save: 258
+x: 4 y: 39
+Paths: -3
+Save: 258
+Pre-save: 258
+x: 4 y: 40
+Paths: -3
+Save: 258
+Pre-save: 258
+x: 3 y: 40
+Paths: -3
+Save: 258
+Pre-save: 258
+x: 2 y: 40
+Paths: -3
+Save: 258
+Pre-save: 258
+x: 1 y: 40
+Paths: 2
+Save: 258
+Pre-save: 259
+x: 1 y: 39
+Paths: -3
+Save: 259
+Pre-save: 259
+x: 1 y: 38
+Paths: 2
+Save: 259
+Pre-save: 260
+x: 1 y: 37
+Paths: -3
+Save: 260
+Pre-save: 260
+x: 1 y: 36
+Paths: 2
+Save: 260
+Pre-save: 261
+x: 1 y: 35
+Paths: -3
+Save: 261
+Pre-save: 261
+x: 1 y: 34
+Paths: 2
+Save: 261
+Pre-save: 262
+x: 1 y: 33
+Paths: -3
+Save: 262
+Pre-save: 262
+x: 1 y: 32
+Paths: 2
+Save: 262
+Pre-save: 263
+x: 1 y: 31
+Paths: -3
+Save: 263
+Pre-save: 263
+x: 1 y: 30
+Paths: 2
+Save: 263
+Pre-save: 264
+x: 1 y: 29
+Paths: -3
+Save: 264
+Pre-save: 264
+x: 1 y: 28
+Paths: 2
+Save: 264
+Pre-save: 265
+x: 1 y: 27
+Paths: -3
+Save: 265
+Pre-save: 265
+x: 1 y: 26
+Paths: 2
+Save: 265
+Pre-save: 266
+x: 1 y: 25
+Paths: -3
+Save: 266
+Pre-save: 266
+x: 1 y: 24
+Paths: 2
+Save: 266
+Pre-save: 267
+x: 1 y: 23
+Paths: -3
+Save: 267
+Pre-save: 267
+x: 1 y: 22
+Paths: 2
+Save: 267
+Pre-save: 268
+x: 1 y: 21
+Paths: -3
+Save: 268
+Pre-save: 268
+x: 1 y: 20
+Paths: 2
+Save: 268
+Pre-save: 269
+x: 1 y: 19
+Paths: -3
+Save: 269
+Pre-save: 269
+x: 1 y: 18
+Paths: 2
+Save: 269
+Pre-save: 270
+x: 1 y: 17
+Paths: -3
+Save: 270
+Pre-save: 270
+x: 1 y: 16
+Paths: 2
+Save: 270
+Pre-save: 271
+x: 1 y: 15
+Paths: -3
+Save: 271
+Pre-save: 271
+x: 1 y: 14
+Paths: 2
+Save: 271
+Pre-save: 272
+x: 1 y: 13
+Paths: -3
+Save: 272
+Pre-save: 272
+x: 1 y: 12
+Paths: 2
+Save: 272
+Pre-save: 273
+x: 1 y: 11
+Paths: -3
+Save: 273
+Pre-save: 273
+x: 1 y: 10
+Paths: 2
+Save: 273
+Pre-save: 274
+x: 1 y: 9
+Paths: -3
+Save: 274
+Pre-save: 274
+x: 1 y: 8
+Paths: 2
+Save: 274
+Pre-save: 275
+x: 1 y: 7
+Paths: -3
+Save: 275
+Pre-save: 275
+x: 1 y: 6
+Paths: 2
+Save: 275
+Pre-save: 276
+x: 1 y: 5
+Paths: -3
+Save: 276
+Pre-save: 276
+x: 1 y: 4
+Paths: 2
+Save: 276
+Pre-save: 277
+x: 1 y: 3
+Paths: -3
+Save: 277
+Pre-save: 277
+x: 1 y: 2
+Paths: 2
+Save: 277
+Pre-save: 278
+x: 1 y: 1
+Paths: -3
+Save: 278
+Pre-save: 278
+x: 1 y: 0
+Paths: 2
+Save: 278
+v: 279
+iteration: 1
+
+Printing map...
+
+XXXXXXXXXXXXXXXXX
+XXX.XX.XXXXXXXXXX
+XX.*..M.XXXXXXXXX
+XXX.XX.XXXXXXXXXX
+XXXXXXXXXXXXXXXXX
+Found the exit...
+Pre-save: 0
+x: 2 y: 5
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 2 y: 6
+Paths: 4
+Save: 0
+v: 1
+iteration: 0
+
+Printing map...
+
+.X.XXXXXXXXXXXXXXXXXXX.X.X.X.X.X.X.X.X.X.
+...XXXXXXXXXXXXXXXXXXX...................
+.X..X.X.X.X.X.X.X..XXXX*X.X.X.X.X.X.X.XX.
+.XXXX.X.X.X.X.X.X.XX.X.X.X.X.X.X.X.X.X.X.
+.........................................
+.XX.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.XX.
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+.XX.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.XX.
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+.XX.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.XX.
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+.XX.X.X.X.XX.X.XX.X.X.X.X.X.X.X.X.X.X.X.X
+.X.X.X.X.X.XXX.X.X.X.X.X.X.X.X.X.X.X.X.X.
+X........................................
+X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.XX.
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+.X.XX.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.XX.XX
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.XMX.
+.X....................................X..
+..X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.XX.
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.X...................................X...
+.XX.X.X.X.X.X.X.X.X.X.X.X.X.X.XX.XX.XXXX.
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.XX.
+.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.X.
+.........................................
+Found the exit...
+Pre-save: 0
+x: 1 y: 24
+Paths: 2
+Save: 0
+Pre-save: 1
+x: 1 y: 25
+Paths: 2
+Save: 1
+Pre-save: 2
+x: 1 y: 26
+Paths: 2
+Save: 2
+Pre-save: 3
+x: 1 y: 27
+Paths: 2
+Save: 3
+Pre-save: 4
+x: 1 y: 28
+Paths: 2
+Save: 4
+Pre-save: 5
+x: 1 y: 29
+Paths: 2
+Save: 5
+Pre-save: 6
+x: 1 y: 30
+Paths: 2
+Save: 6
+Pre-save: 7
+x: 1 y: 31
+Paths: 2
+Save: 7
+Pre-save: 8
+x: 1 y: 32
+Paths: 2
+Save: 8
+Pre-save: 9
+x: 1 y: 33
+Paths: 2
+Save: 9
+Pre-save: 10
+x: 1 y: 34
+Paths: 2
+Save: 10
+Pre-save: 11
+x: 1 y: 35
+Paths: 2
+Save: 11
+Pre-save: 12
+x: 1 y: 36
+Paths: 2
+Save: 12
+Pre-save: 13
+x: 1 y: 37
+Paths: 2
+Save: 13
+Pre-save: 14
+x: 1 y: 38
+Paths: 2
+Save: 14
+Pre-save: 15
+x: 1 y: 39
+Paths: -3
+Save: 15
+Pre-save: 15
+x: 1 y: 40
+Paths: 2
+Save: 15
+Pre-save: 16
+x: 2 y: 40
+Paths: -3
+Save: 16
+Pre-save: 16
+x: 3 y: 40
+Paths: -3
+Save: 16
+Pre-save: 16
+x: 4 y: 40
+Paths: -3
+Save: 16
+Pre-save: 16
+x: 4 y: 39
+Paths: 2
+Save: 16
+Pre-save: 17
+x: 4 y: 38
+Paths: 2
+Save: 17
+Pre-save: 18
+x: 4 y: 37
+Paths: 2
+Save: 18
+Pre-save: 19
+x: 4 y: 36
+Paths: 2
+Save: 19
+Pre-save: 20
+x: 4 y: 35
+Paths: 2
+Save: 20
+Pre-save: 21
+x: 4 y: 34
+Paths: 2
+Save: 21
+Pre-save: 22
+x: 4 y: 33
+Paths: 2
+Save: 22
+Pre-save: 23
+x: 4 y: 32
+Paths: 2
+Save: 23
+Pre-save: 24
+x: 4 y: 31
+Paths: 2
+Save: 24
+Pre-save: 25
+x: 4 y: 30
+Paths: 2
+Save: 25
+Pre-save: 26
+x: 4 y: 29
+Paths: 2
+Save: 26
+Pre-save: 27
+x: 4 y: 28
+Paths: 2
+Save: 27
+Pre-save: 28
+x: 4 y: 27
+Paths: 2
+Save: 28
+Pre-save: 29
+x: 4 y: 26
+Paths: 2
+Save: 29
+Pre-save: 30
+x: 4 y: 25
+Paths: 2
+Save: 30
+Pre-save: 31
+x: 4 y: 24
+Paths: 2
+Save: 31
+Pre-save: 32
+x: 4 y: 23
+Paths: 2
+Save: 32
+Pre-save: 33
+x: 4 y: 22
+Paths: 2
+Save: 33
+Pre-save: 34
+x: 4 y: 21
+Paths: 2
+Save: 34
+Pre-save: 35
+x: 4 y: 20
+Paths: 2
+Save: 35
+Pre-save: 36
+x: 4 y: 19
+Paths: 2
+Save: 36
+Pre-save: 37
+x: 4 y: 18
+Paths: -3
+Save: 37
+Pre-save: 37
+x: 2 y: 17
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 3 y: 17
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 17
+Paths: 3
+Save: 0
+Pre-save: 1
+x: 4 y: 16
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 3 y: 15
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 15
+Paths: 3
+Save: 0
+Pre-save: 1
+x: 4 y: 14
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 3 y: 13
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 13
+Paths: 3
+Save: 0
+Pre-save: 1
+x: 4 y: 12
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 3 y: 11
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 11
+Paths: 3
+Save: 0
+Pre-save: 1
+x: 4 y: 10
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 3 y: 9
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 9
+Paths: 3
+Save: 0
+Pre-save: 1
+x: 4 y: 8
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 3 y: 7
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 7
+Paths: 3
+Save: 0
+Pre-save: 1
+x: 4 y: 6
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 3 y: 5
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 4 y: 5
+Paths: 3
+Save: 0
+Pre-save: 1
+x: 4 y: 4
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 4 y: 3
+Paths: 2
+Save: 1
+Pre-save: 2
+x: 4 y: 2
+Paths: -3
+Save: 2
+Pre-save: 2
+x: 4 y: 1
+Paths: -3
+Save: 2
+Pre-save: 2
+x: 2 y: 2
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 1 y: 2
+Paths: 2
+Save: 0
+Pre-save: 1
+x: 1 y: 1
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 1 y: 0
+Paths: 2
+Save: 1
+Pre-save: 2
+x: 2 y: 0
+Paths: -3
+Save: 2
+Pre-save: 2
+x: 3 y: 0
+Paths: -3
+Save: 2
+Pre-save: 2
+x: 4 y: 0
+Paths: 2
+Save: 2
+Pre-save: 3
+x: 5 y: 0
+Paths: -3
+Save: 3
+Pre-save: 3
+x: 6 y: 0
+Paths: -3
+Save: 3
+Pre-save: 3
+x: 7 y: 0
+Paths: -3
+Save: 3
+Pre-save: 3
+x: 7 y: 1
+Paths: 2
+Save: 3
+Pre-save: 4
+x: 7 y: 2
+Paths: 2
+Save: 4
+Pre-save: 5
+x: 7 y: 3
+Paths: 2
+Save: 5
+Pre-save: 6
+x: 7 y: 4
+Paths: 2
+Save: 6
+Pre-save: 7
+x: 7 y: 5
+Paths: 2
+Save: 7
+Pre-save: 8
+x: 7 y: 6
+Paths: 2
+Save: 8
+Pre-save: 9
+x: 7 y: 7
+Paths: 2
+Save: 9
+Pre-save: 10
+x: 7 y: 8
+Paths: 2
+Save: 10
+Pre-save: 11
+x: 7 y: 9
+Paths: 2
+Save: 11
+Pre-save: 12
+x: 7 y: 10
+Paths: 2
+Save: 12
+Pre-save: 13
+x: 7 y: 11
+Paths: 2
+Save: 13
+Pre-save: 14
+x: 7 y: 12
+Paths: 2
+Save: 14
+Pre-save: 15
+x: 7 y: 13
+Paths: 2
+Save: 15
+Pre-save: 16
+x: 7 y: 14
+Paths: 2
+Save: 16
+Pre-save: 17
+x: 7 y: 15
+Paths: 2
+Save: 17
+Pre-save: 18
+x: 7 y: 16
+Paths: 2
+Save: 18
+Pre-save: 19
+x: 7 y: 17
+Paths: 2
+Save: 19
+Pre-save: 20
+x: 7 y: 18
+Paths: 2
+Save: 20
+Pre-save: 21
+x: 7 y: 19
+Paths: 2
+Save: 21
+Pre-save: 22
+x: 7 y: 20
+Paths: 2
+Save: 22
+Pre-save: 23
+x: 7 y: 21
+Paths: 2
+Save: 23
+Pre-save: 24
+x: 7 y: 22
+Paths: 2
+Save: 24
+Pre-save: 25
+x: 7 y: 23
+Paths: 2
+Save: 25
+Pre-save: 26
+x: 7 y: 24
+Paths: 2
+Save: 26
+Pre-save: 27
+x: 7 y: 25
+Paths: 2
+Save: 27
+Pre-save: 28
+x: 7 y: 26
+Paths: 2
+Save: 28
+Pre-save: 29
+x: 7 y: 27
+Paths: 2
+Save: 29
+Pre-save: 30
+x: 7 y: 28
+Paths: 2
+Save: 30
+Pre-save: 31
+x: 7 y: 29
+Paths: 2
+Save: 31
+Pre-save: 32
+x: 7 y: 30
+Paths: 2
+Save: 32
+Pre-save: 33
+x: 7 y: 31
+Paths: 2
+Save: 33
+Pre-save: 34
+x: 7 y: 32
+Paths: 2
+Save: 34
+Pre-save: 35
+x: 7 y: 33
+Paths: 2
+Save: 35
+Pre-save: 36
+x: 7 y: 34
+Paths: 2
+Save: 36
+Pre-save: 37
+x: 7 y: 35
+Paths: 2
+Save: 37
+Pre-save: 38
+x: 7 y: 36
+Paths: 2
+Save: 38
+Pre-save: 39
+x: 7 y: 37
+Paths: 2
+Save: 39
+Pre-save: 40
+x: 7 y: 38
+Paths: 2
+Save: 40
+Pre-save: 41
+x: 7 y: 39
+Paths: -3
+Save: 41
+Pre-save: 41
+x: 7 y: 40
+Paths: 2
+Save: 41
+Pre-save: 42
+x: 8 y: 40
+Paths: -3
+Save: 42
+Pre-save: 42
+x: 9 y: 40
+Paths: -3
+Save: 42
+Pre-save: 42
+x: 10 y: 40
+Paths: -3
+Save: 42
+Pre-save: 42
+x: 10 y: 39
+Paths: 2
+Save: 42
+Pre-save: 43
+x: 10 y: 38
+Paths: 2
+Save: 43
+Pre-save: 44
+x: 10 y: 37
+Paths: 2
+Save: 44
+Pre-save: 45
+x: 10 y: 36
+Paths: 2
+Save: 45
+Pre-save: 46
+x: 10 y: 35
+Paths: 2
+Save: 46
+Pre-save: 47
+x: 10 y: 34
+Paths: 2
+Save: 47
+Pre-save: 48
+x: 10 y: 33
+Paths: 2
+Save: 48
+Pre-save: 49
+x: 10 y: 32
+Paths: 2
+Save: 49
+Pre-save: 50
+x: 10 y: 31
+Paths: 2
+Save: 50
+Pre-save: 51
+x: 10 y: 30
+Paths: 2
+Save: 51
+Pre-save: 52
+x: 10 y: 29
+Paths: 2
+Save: 52
+Pre-save: 53
+x: 10 y: 28
+Paths: 2
+Save: 53
+Pre-save: 54
+x: 10 y: 27
+Paths: 2
+Save: 54
+Pre-save: 55
+x: 10 y: 26
+Paths: 2
+Save: 55
+Pre-save: 56
+x: 10 y: 25
+Paths: 2
+Save: 56
+Pre-save: 57
+x: 10 y: 24
+Paths: 2
+Save: 57
+Pre-save: 58
+x: 10 y: 23
+Paths: 2
+Save: 58
+Pre-save: 59
+x: 10 y: 22
+Paths: 2
+Save: 59
+Pre-save: 60
+x: 10 y: 21
+Paths: 2
+Save: 60
+Pre-save: 61
+x: 10 y: 20
+Paths: 2
+Save: 61
+Pre-save: 62
+x: 10 y: 19
+Paths: 2
+Save: 62
+Pre-save: 63
+x: 10 y: 18
+Paths: 2
+Save: 63
+Pre-save: 64
+x: 10 y: 17
+Paths: 2
+Save: 64
+Pre-save: 65
+x: 10 y: 16
+Paths: 2
+Save: 65
+Pre-save: 66
+x: 10 y: 15
+Paths: 2
+Save: 66
+Pre-save: 67
+x: 10 y: 14
+Paths: 2
+Save: 67
+Pre-save: 68
+x: 10 y: 13
+Paths: 2
+Save: 68
+Pre-save: 69
+x: 10 y: 12
+Paths: 2
+Save: 69
+Pre-save: 70
+x: 10 y: 11
+Paths: 2
+Save: 70
+Pre-save: 71
+x: 10 y: 10
+Paths: 2
+Save: 71
+Pre-save: 72
+x: 10 y: 9
+Paths: 2
+Save: 72
+Pre-save: 73
+x: 10 y: 8
+Paths: 2
+Save: 73
+Pre-save: 74
+x: 10 y: 7
+Paths: 2
+Save: 74
+Pre-save: 75
+x: 10 y: 6
+Paths: 2
+Save: 75
+Pre-save: 76
+x: 10 y: 5
+Paths: 2
+Save: 76
+Pre-save: 77
+x: 10 y: 4
+Paths: 2
+Save: 77
+Pre-save: 78
+x: 10 y: 3
+Paths: 2
+Save: 78
+Pre-save: 79
+x: 10 y: 2
+Paths: 2
+Save: 79
+Pre-save: 80
+x: 10 y: 1
+Paths: -3
+Save: 80
+Pre-save: 80
+x: 10 y: 0
+Paths: 2
+Save: 80
+Pre-save: 81
+x: 11 y: 0
+Paths: -3
+Save: 81
+Pre-save: 81
+x: 12 y: 0
+Paths: -3
+Save: 81
+Pre-save: 81
+x: 13 y: 0
+Paths: -3
+Save: 81
+Pre-save: 81
+x: 13 y: 1
+Paths: 2
+Save: 81
+Pre-save: 82
+x: 13 y: 2
+Paths: 2
+Save: 82
+Pre-save: 83
+x: 13 y: 3
+Paths: 2
+Save: 83
+Pre-save: 84
+x: 13 y: 4
+Paths: 2
+Save: 84
+Pre-save: 85
+x: 13 y: 5
+Paths: 2
+Save: 85
+Pre-save: 86
+x: 13 y: 6
+Paths: 2
+Save: 86
+Pre-save: 87
+x: 13 y: 7
+Paths: 2
+Save: 87
+Pre-save: 88
+x: 13 y: 8
+Paths: 2
+Save: 88
+Pre-save: 89
+x: 13 y: 9
+Paths: 2
+Save: 89
+Pre-save: 90
+x: 13 y: 10
+Paths: 2
+Save: 90
+Pre-save: 91
+x: 13 y: 11
+Paths: 2
+Save: 91
+Pre-save: 92
+x: 13 y: 12
+Paths: 2
+Save: 92
+Pre-save: 93
+x: 13 y: 13
+Paths: 2
+Save: 93
+Pre-save: 94
+x: 13 y: 14
+Paths: 2
+Save: 94
+Pre-save: 95
+x: 13 y: 15
+Paths: 2
+Save: 95
+Pre-save: 96
+x: 13 y: 16
+Paths: 2
+Save: 96
+Pre-save: 97
+x: 13 y: 17
+Paths: 2
+Save: 97
+Pre-save: 98
+x: 13 y: 18
+Paths: 2
+Save: 98
+Pre-save: 99
+x: 13 y: 19
+Paths: 2
+Save: 99
+Pre-save: 100
+x: 13 y: 20
+Paths: 2
+Save: 100
+Pre-save: 101
+x: 13 y: 21
+Paths: 2
+Save: 101
+Pre-save: 102
+x: 13 y: 22
+Paths: 2
+Save: 102
+Pre-save: 103
+x: 13 y: 23
+Paths: 2
+Save: 103
+Pre-save: 104
+x: 13 y: 24
+Paths: 2
+Save: 104
+Pre-save: 105
+x: 13 y: 25
+Paths: 2
+Save: 105
+Pre-save: 106
+x: 13 y: 26
+Paths: 2
+Save: 106
+Pre-save: 107
+x: 13 y: 27
+Paths: 2
+Save: 107
+Pre-save: 108
+x: 13 y: 28
+Paths: 2
+Save: 108
+Pre-save: 109
+x: 13 y: 29
+Paths: 2
+Save: 109
+Pre-save: 110
+x: 13 y: 30
+Paths: 2
+Save: 110
+Pre-save: 111
+x: 13 y: 31
+Paths: 2
+Save: 111
+Pre-save: 112
+x: 13 y: 32
+Paths: 2
+Save: 112
+Pre-save: 113
+x: 13 y: 33
+Paths: 2
+Save: 113
+Pre-save: 114
+x: 13 y: 34
+Paths: 2
+Save: 114
+Pre-save: 115
+x: 13 y: 35
+Paths: 2
+Save: 115
+Pre-save: 116
+x: 13 y: 36
+Paths: 2
+Save: 116
+Pre-save: 117
+x: 13 y: 37
+Paths: 2
+Save: 117
+Pre-save: 118
+x: 13 y: 38
+Paths: 2
+Save: 118
+Pre-save: 119
+x: 13 y: 39
+Paths: -3
+Save: 119
+Pre-save: 119
+x: 13 y: 40
+Paths: 2
+Save: 119
+Pre-save: 120
+x: 14 y: 40
+Paths: -3
+Save: 120
+Pre-save: 120
+x: 15 y: 40
+Paths: -3
+Save: 120
+Pre-save: 120
+x: 16 y: 40
+Paths: -3
+Save: 120
+Pre-save: 120
+x: 16 y: 39
+Paths: 2
+Save: 120
+Pre-save: 121
+x: 16 y: 38
+Paths: 2
+Save: 121
+Pre-save: 122
+x: 16 y: 37
+Paths: 2
+Save: 122
+Pre-save: 123
+x: 16 y: 36
+Paths: 2
+Save: 123
+Pre-save: 124
+x: 16 y: 35
+Paths: 2
+Save: 124
+Pre-save: 125
+x: 16 y: 34
+Paths: 2
+Save: 125
+Pre-save: 126
+x: 16 y: 33
+Paths: 2
+Save: 126
+Pre-save: 127
+x: 16 y: 32
+Paths: 2
+Save: 127
+Pre-save: 128
+x: 16 y: 31
+Paths: 2
+Save: 128
+Pre-save: 129
+x: 16 y: 30
+Paths: 2
+Save: 129
+Pre-save: 130
+x: 16 y: 29
+Paths: 2
+Save: 130
+Pre-save: 131
+x: 16 y: 28
+Paths: 2
+Save: 131
+Pre-save: 132
+x: 16 y: 27
+Paths: 2
+Save: 132
+Pre-save: 133
+x: 16 y: 26
+Paths: 2
+Save: 133
+Pre-save: 134
+x: 16 y: 25
+Paths: 2
+Save: 134
+Pre-save: 135
+x: 16 y: 24
+Paths: 2
+Save: 135
+Pre-save: 136
+x: 16 y: 23
+Paths: 2
+Save: 136
+Pre-save: 137
+x: 16 y: 22
+Paths: 2
+Save: 137
+Pre-save: 138
+x: 16 y: 21
+Paths: 2
+Save: 138
+Pre-save: 139
+x: 16 y: 20
+Paths: 2
+Save: 139
+Pre-save: 140
+x: 16 y: 19
+Paths: 2
+Save: 140
+Pre-save: 141
+x: 16 y: 18
+Paths: 2
+Save: 141
+Pre-save: 142
+x: 16 y: 17
+Paths: 2
+Save: 142
+Pre-save: 143
+x: 16 y: 16
+Paths: 2
+Save: 143
+Pre-save: 144
+x: 16 y: 15
+Paths: 2
+Save: 144
+Pre-save: 145
+x: 16 y: 14
+Paths: 2
+Save: 145
+Pre-save: 146
+x: 16 y: 13
+Paths: 2
+Save: 146
+Pre-save: 147
+x: 16 y: 12
+Paths: 2
+Save: 147
+Pre-save: 148
+x: 16 y: 11
+Paths: 2
+Save: 148
+Pre-save: 149
+x: 16 y: 10
+Paths: 2
+Save: 149
+Pre-save: 150
+x: 16 y: 9
+Paths: 2
+Save: 150
+Pre-save: 151
+x: 16 y: 8
+Paths: 2
+Save: 151
+Pre-save: 152
+x: 16 y: 7
+Paths: 2
+Save: 152
+Pre-save: 153
+x: 16 y: 6
+Paths: 2
+Save: 153
+Pre-save: 154
+x: 16 y: 5
+Paths: 2
+Save: 154
+Pre-save: 155
+x: 16 y: 4
+Paths: 2
+Save: 155
+Pre-save: 156
+x: 16 y: 3
+Paths: 2
+Save: 156
+Pre-save: 157
+x: 16 y: 2
+Paths: 2
+Save: 157
+Pre-save: 158
+x: 16 y: 1
+Paths: -3
+Save: 158
+Pre-save: 158
+x: 16 y: 0
+Paths: 2
+Save: 158
+Pre-save: 159
+x: 17 y: 0
+Paths: -3
+Save: 159
+Pre-save: 159
+x: 18 y: 0
+Paths: -3
+Save: 159
+Pre-save: 159
+x: 19 y: 0
+Paths: -3
+Save: 159
+Pre-save: 159
+x: 19 y: 1
+Paths: 2
+Save: 159
+Pre-save: 160
+x: 19 y: 2
+Paths: 2
+Save: 160
+Pre-save: 161
+x: 19 y: 3
+Paths: 2
+Save: 161
+Pre-save: 162
+x: 19 y: 4
+Paths: 2
+Save: 162
+Pre-save: 163
+x: 19 y: 5
+Paths: 2
+Save: 163
+Pre-save: 164
+x: 19 y: 6
+Paths: 2
+Save: 164
+Pre-save: 165
+x: 19 y: 7
+Paths: 2
+Save: 165
+Pre-save: 166
+x: 19 y: 8
+Paths: 2
+Save: 166
+Pre-save: 167
+x: 19 y: 9
+Paths: 2
+Save: 167
+Pre-save: 168
+x: 19 y: 10
+Paths: 2
+Save: 168
+Pre-save: 169
+x: 19 y: 11
+Paths: 2
+Save: 169
+Pre-save: 170
+x: 19 y: 12
+Paths: 2
+Save: 170
+Pre-save: 171
+x: 19 y: 13
+Paths: 2
+Save: 171
+Pre-save: 172
+x: 19 y: 14
+Paths: 2
+Save: 172
+Pre-save: 173
+x: 19 y: 15
+Paths: 2
+Save: 173
+Pre-save: 174
+x: 19 y: 16
+Paths: 2
+Save: 174
+Pre-save: 175
+x: 19 y: 17
+Paths: 2
+Save: 175
+Pre-save: 176
+x: 19 y: 18
+Paths: 2
+Save: 176
+Pre-save: 177
+x: 19 y: 19
+Paths: 2
+Save: 177
+Pre-save: 178
+x: 19 y: 20
+Paths: 2
+Save: 178
+Pre-save: 179
+x: 19 y: 21
+Paths: 2
+Save: 179
+Pre-save: 180
+x: 19 y: 22
+Paths: 2
+Save: 180
+Pre-save: 181
+x: 19 y: 23
+Paths: 2
+Save: 181
+Pre-save: 182
+x: 19 y: 24
+Paths: 2
+Save: 182
+Pre-save: 183
+x: 19 y: 25
+Paths: 2
+Save: 183
+Pre-save: 184
+x: 19 y: 26
+Paths: 2
+Save: 184
+Pre-save: 185
+x: 19 y: 27
+Paths: 2
+Save: 185
+Pre-save: 186
+x: 19 y: 28
+Paths: 2
+Save: 186
+Pre-save: 187
+x: 19 y: 29
+Paths: 2
+Save: 187
+Pre-save: 188
+x: 19 y: 30
+Paths: 2
+Save: 188
+Pre-save: 189
+x: 19 y: 31
+Paths: 2
+Save: 189
+Pre-save: 190
+x: 19 y: 32
+Paths: 2
+Save: 190
+Pre-save: 191
+x: 19 y: 33
+Paths: 2
+Save: 191
+Pre-save: 192
+x: 19 y: 34
+Paths: 2
+Save: 192
+Pre-save: 193
+x: 19 y: 35
+Paths: 2
+Save: 193
+Pre-save: 194
+x: 19 y: 36
+Paths: 2
+Save: 194
+Pre-save: 195
+x: 19 y: 37
+Paths: 2
+Save: 195
+Pre-save: 196
+x: 19 y: 38
+Paths: 2
+Save: 196
+Pre-save: 197
+x: 19 y: 39
+Paths: -3
+Save: 197
+Pre-save: 197
+x: 19 y: 40
+Paths: 2
+Save: 197
+Pre-save: 198
+x: 20 y: 40
+Paths: -3
+Save: 198
+Pre-save: 198
+x: 21 y: 40
+Paths: -3
+Save: 198
+Pre-save: 198
+x: 22 y: 40
+Paths: -3
+Save: 198
+Pre-save: 198
+x: 22 y: 39
+Paths: 2
+Save: 198
+Pre-save: 199
+x: 22 y: 38
+Paths: 2
+Save: 199
+Pre-save: 200
+x: 22 y: 37
+Paths: 2
+Save: 200
+Pre-save: 201
+x: 22 y: 36
+Paths: 2
+Save: 201
+Pre-save: 202
+x: 22 y: 35
+Paths: 2
+Save: 202
+Pre-save: 203
+x: 22 y: 34
+Paths: 2
+Save: 203
+Pre-save: 204
+x: 22 y: 33
+Paths: 2
+Save: 204
+Pre-save: 205
+x: 22 y: 32
+Paths: 2
+Save: 205
+Pre-save: 206
+x: 22 y: 31
+Paths: 2
+Save: 206
+Pre-save: 207
+x: 22 y: 30
+Paths: 2
+Save: 207
+Pre-save: 208
+x: 22 y: 29
+Paths: 2
+Save: 208
+Pre-save: 209
+x: 22 y: 28
+Paths: 2
+Save: 209
+Pre-save: 210
+x: 22 y: 27
+Paths: 2
+Save: 210
+Pre-save: 211
+x: 22 y: 26
+Paths: 2
+Save: 211
+Pre-save: 212
+x: 22 y: 25
+Paths: 2
+Save: 212
+Pre-save: 213
+x: 22 y: 24
+Paths: 2
+Save: 213
+Pre-save: 214
+x: 22 y: 23
+Paths: 2
+Save: 214
+Pre-save: 215
+x: 22 y: 22
+Paths: 2
+Save: 215
+Pre-save: 216
+x: 22 y: 21
+Paths: 2
+Save: 216
+Pre-save: 217
+x: 22 y: 20
+Paths: 2
+Save: 217
+Pre-save: 218
+x: 22 y: 19
+Paths: 2
+Save: 218
+Pre-save: 219
+x: 22 y: 18
+Paths: 2
+Save: 219
+Pre-save: 220
+x: 22 y: 17
+Paths: 2
+Save: 220
+Pre-save: 221
+x: 22 y: 16
+Paths: 2
+Save: 221
+Pre-save: 222
+x: 22 y: 15
+Paths: -3
+Save: 222
+Pre-save: 222
+x: 23 y: 0
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 22 y: 0
+Paths: 2
+Save: 0
+Pre-save: 1
+x: 22 y: 1
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 22 y: 2
+Paths: 2
+Save: 1
+Pre-save: 2
+x: 22 y: 3
+Paths: 2
+Save: 2
+Pre-save: 3
+x: 22 y: 4
+Paths: 2
+Save: 3
+Pre-save: 4
+x: 22 y: 5
+Paths: 2
+Save: 4
+Pre-save: 5
+x: 22 y: 6
+Paths: 2
+Save: 5
+Pre-save: 6
+x: 22 y: 7
+Paths: 2
+Save: 6
+Pre-save: 7
+x: 22 y: 8
+Paths: 2
+Save: 7
+Pre-save: 8
+x: 22 y: 9
+Paths: 2
+Save: 8
+Pre-save: 9
+x: 22 y: 10
+Paths: 2
+Save: 9
+Pre-save: 10
+x: 22 y: 11
+Paths: -3
+Save: 10
+Pre-save: 10
+x: 22 y: 12
+Paths: 3
+Save: 10
+Pre-save: 11
+x: 22 y: 13
+Paths: -3
+Save: 11
+Pre-save: 11
+x: 22 y: 14
+Paths: 3
+Save: 11
+Pre-save: 12
+x: 23 y: 14
+Paths: -3
+Save: 12
+Pre-save: 12
+x: 24 y: 14
+Paths: -3
+Save: 12
+Pre-save: 12
+x: 25 y: 1
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 25 y: 2
+Paths: 2
+Save: 0
+Pre-save: 1
+x: 25 y: 3
+Paths: 2
+Save: 1
+Pre-save: 2
+x: 25 y: 4
+Paths: 2
+Save: 2
+Pre-save: 3
+x: 25 y: 5
+Paths: 2
+Save: 3
+Pre-save: 4
+x: 25 y: 6
+Paths: 2
+Save: 4
+Pre-save: 5
+x: 25 y: 7
+Paths: 2
+Save: 5
+Pre-save: 6
+x: 25 y: 8
+Paths: 2
+Save: 6
+Pre-save: 7
+x: 25 y: 9
+Paths: 2
+Save: 7
+Pre-save: 8
+x: 25 y: 10
+Paths: 2
+Save: 8
+Pre-save: 9
+x: 25 y: 11
+Paths: 2
+Save: 9
+Pre-save: 10
+x: 25 y: 12
+Paths: -3
+Save: 10
+Pre-save: 10
+x: 25 y: 13
+Paths: 2
+Save: 10
+Pre-save: 11
+x: 25 y: 14
+Paths: 2
+Save: 11
+Pre-save: 12
+x: 25 y: 15
+Paths: 2
+Save: 12
+Pre-save: 13
+x: 25 y: 16
+Paths: 2
+Save: 13
+Pre-save: 14
+x: 25 y: 17
+Paths: 2
+Save: 14
+Pre-save: 15
+x: 25 y: 18
+Paths: 2
+Save: 15
+Pre-save: 16
+x: 25 y: 19
+Paths: 2
+Save: 16
+Pre-save: 17
+x: 25 y: 20
+Paths: 2
+Save: 17
+Pre-save: 18
+x: 25 y: 21
+Paths: 2
+Save: 18
+Pre-save: 19
+x: 25 y: 22
+Paths: 2
+Save: 19
+Pre-save: 20
+x: 25 y: 23
+Paths: 2
+Save: 20
+Pre-save: 21
+x: 25 y: 24
+Paths: 2
+Save: 21
+Pre-save: 22
+x: 25 y: 25
+Paths: 2
+Save: 22
+Pre-save: 23
+x: 25 y: 26
+Paths: 2
+Save: 23
+Pre-save: 24
+x: 25 y: 27
+Paths: 2
+Save: 24
+Pre-save: 25
+x: 25 y: 28
+Paths: 2
+Save: 25
+Pre-save: 26
+x: 25 y: 29
+Paths: 2
+Save: 26
+Pre-save: 27
+x: 25 y: 30
+Paths: 2
+Save: 27
+Pre-save: 28
+x: 25 y: 31
+Paths: 2
+Save: 28
+Pre-save: 29
+x: 25 y: 32
+Paths: 2
+Save: 29
+Pre-save: 30
+x: 25 y: 33
+Paths: 2
+Save: 30
+Pre-save: 31
+x: 25 y: 34
+Paths: 2
+Save: 31
+Pre-save: 32
+x: 25 y: 35
+Paths: 2
+Save: 32
+Pre-save: 33
+x: 25 y: 36
+Paths: 2
+Save: 33
+Pre-save: 34
+x: 25 y: 37
+Paths: 2
+Save: 34
+Pre-save: 35
+x: 25 y: 38
+Paths: 2
+Save: 35
+Pre-save: 36
+x: 25 y: 39
+Paths: -3
+Save: 36
+Pre-save: 36
+x: 25 y: 40
+Paths: 2
+Save: 36
+Pre-save: 37
+x: 26 y: 40
+Paths: -3
+Save: 37
+Pre-save: 37
+x: 27 y: 40
+Paths: -3
+Save: 37
+Pre-save: 37
+x: 28 y: 40
+Paths: -3
+Save: 37
+Pre-save: 37
+x: 28 y: 39
+Paths: -3
+Save: 37
+Pre-save: 37
+x: 31 y: 37
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 31 y: 36
+Paths: 2
+Save: 0
+Pre-save: 1
+x: 31 y: 35
+Paths: 2
+Save: 1
+Pre-save: 2
+x: 31 y: 34
+Paths: 2
+Save: 2
+Pre-save: 3
+x: 31 y: 33
+Paths: 2
+Save: 3
+Pre-save: 4
+x: 31 y: 32
+Paths: 2
+Save: 4
+Pre-save: 5
+x: 31 y: 31
+Paths: 2
+Save: 5
+Pre-save: 6
+x: 31 y: 30
+Paths: 2
+Save: 6
+Pre-save: 7
+x: 31 y: 29
+Paths: 2
+Save: 7
+Pre-save: 8
+x: 31 y: 28
+Paths: 2
+Save: 8
+Pre-save: 9
+x: 31 y: 27
+Paths: 2
+Save: 9
+Pre-save: 10
+x: 31 y: 26
+Paths: 2
+Save: 10
+Pre-save: 11
+x: 31 y: 25
+Paths: 2
+Save: 11
+Pre-save: 12
+x: 31 y: 24
+Paths: 2
+Save: 12
+Pre-save: 13
+x: 31 y: 23
+Paths: 2
+Save: 13
+Pre-save: 14
+x: 31 y: 22
+Paths: 2
+Save: 14
+Pre-save: 15
+x: 31 y: 21
+Paths: 2
+Save: 15
+Pre-save: 16
+x: 31 y: 20
+Paths: 2
+Save: 16
+Pre-save: 17
+x: 31 y: 19
+Paths: 2
+Save: 17
+Pre-save: 18
+x: 31 y: 18
+Paths: 2
+Save: 18
+Pre-save: 19
+x: 31 y: 17
+Paths: 2
+Save: 19
+Pre-save: 20
+x: 31 y: 16
+Paths: 2
+Save: 20
+Pre-save: 21
+x: 31 y: 15
+Paths: 2
+Save: 21
+Pre-save: 22
+x: 31 y: 14
+Paths: 2
+Save: 22
+Pre-save: 23
+x: 31 y: 13
+Paths: 2
+Save: 23
+Pre-save: 24
+x: 31 y: 12
+Paths: 2
+Save: 24
+Pre-save: 25
+x: 31 y: 11
+Paths: 2
+Save: 25
+Pre-save: 26
+x: 31 y: 10
+Paths: 2
+Save: 26
+Pre-save: 27
+x: 31 y: 9
+Paths: 2
+Save: 27
+Pre-save: 28
+x: 31 y: 8
+Paths: 2
+Save: 28
+Pre-save: 29
+x: 31 y: 7
+Paths: 2
+Save: 29
+Pre-save: 30
+x: 31 y: 6
+Paths: 2
+Save: 30
+Pre-save: 31
+x: 31 y: 5
+Paths: 2
+Save: 31
+Pre-save: 32
+x: 31 y: 4
+Paths: 2
+Save: 32
+Pre-save: 33
+x: 31 y: 3
+Paths: 2
+Save: 33
+Pre-save: 34
+x: 31 y: 2
+Paths: -3
+Save: 34
+Pre-save: 34
+x: 30 y: 2
+Paths: -3
+Save: 34
+Pre-save: 34
+x: 29 y: 2
+Paths: -3
+Save: 34
+Pre-save: 34
+x: 40 y: 0
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 40 y: 1
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 40 y: 2
+Paths: 2
+Save: 0
+Pre-save: 1
+x: 40 y: 3
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 40 y: 4
+Paths: 2
+Save: 1
+Pre-save: 2
+x: 40 y: 5
+Paths: -3
+Save: 2
+Pre-save: 2
+x: 40 y: 6
+Paths: 2
+Save: 2
+Pre-save: 3
+x: 40 y: 7
+Paths: -3
+Save: 3
+Pre-save: 3
+x: 40 y: 8
+Paths: 2
+Save: 3
+Pre-save: 4
+x: 40 y: 9
+Paths: -3
+Save: 4
+Pre-save: 4
+x: 40 y: 10
+Paths: 2
+Save: 4
+Pre-save: 5
+x: 40 y: 11
+Paths: -3
+Save: 5
+Pre-save: 5
+x: 40 y: 12
+Paths: 2
+Save: 5
+Pre-save: 6
+x: 40 y: 13
+Paths: -3
+Save: 6
+Pre-save: 6
+x: 40 y: 14
+Paths: 2
+Save: 6
+Pre-save: 7
+x: 40 y: 15
+Paths: -3
+Save: 7
+Pre-save: 7
+x: 40 y: 16
+Paths: 2
+Save: 7
+Pre-save: 8
+x: 40 y: 17
+Paths: -3
+Save: 8
+Pre-save: 8
+x: 40 y: 18
+Paths: 2
+Save: 8
+Pre-save: 9
+x: 40 y: 19
+Paths: -3
+Save: 9
+Pre-save: 9
+x: 40 y: 20
+Paths: 2
+Save: 9
+Pre-save: 10
+x: 40 y: 21
+Paths: -3
+Save: 10
+Pre-save: 10
+x: 40 y: 22
+Paths: 2
+Save: 10
+Pre-save: 11
+x: 40 y: 23
+Paths: -3
+Save: 11
+Pre-save: 11
+x: 40 y: 24
+Paths: 2
+Save: 11
+Pre-save: 12
+x: 40 y: 25
+Paths: -3
+Save: 12
+Pre-save: 12
+x: 40 y: 26
+Paths: 2
+Save: 12
+Pre-save: 13
+x: 40 y: 27
+Paths: -3
+Save: 13
+Pre-save: 13
+x: 40 y: 28
+Paths: 2
+Save: 13
+Pre-save: 14
+x: 40 y: 29
+Paths: -3
+Save: 14
+Pre-save: 14
+x: 40 y: 30
+Paths: 2
+Save: 14
+Pre-save: 15
+x: 40 y: 31
+Paths: -3
+Save: 15
+Pre-save: 15
+x: 40 y: 32
+Paths: 2
+Save: 15
+Pre-save: 16
+x: 40 y: 33
+Paths: -3
+Save: 16
+Pre-save: 16
+x: 40 y: 34
+Paths: 2
+Save: 16
+Pre-save: 17
+x: 40 y: 35
+Paths: -3
+Save: 17
+Pre-save: 17
+x: 40 y: 36
+Paths: 2
+Save: 17
+Pre-save: 18
+x: 40 y: 37
+Paths: -3
+Save: 18
+Pre-save: 18
+x: 40 y: 38
+Paths: 2
+Save: 18
+Pre-save: 19
+x: 40 y: 39
+Paths: -3
+Save: 19
+Pre-save: 19
+x: 40 y: 40
+Paths: -3
+Save: 19
+Pre-save: 19
+x: 39 y: 40
+Paths: -3
+Save: 19
+Pre-save: 19
+x: 38 y: 40
+Paths: -3
+Save: 19
+Pre-save: 19
+x: 31 y: 40
+Paths: 2
+Save: 0
+Pre-save: 1
+x: 32 y: 40
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 33 y: 40
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 34 y: 38
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 34 y: 39
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 34 y: 40
+Paths: 2
+Save: 0
+Pre-save: 1
+x: 35 y: 40
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 36 y: 40
+Paths: -3
+Save: 1
+Pre-save: 1
+x: 37 y: 40
+Paths: 2
+Save: 1
+Pre-save: 2
+x: 37 y: 39
+Paths: -3
+Save: 2
+Pre-save: 2
+x: 37 y: 38
+Paths: 2
+Save: 2
+Pre-save: 3
+x: 37 y: 37
+Paths: 2
+Save: 3
+Pre-save: 4
+x: 37 y: 36
+Paths: 2
+Save: 4
+Pre-save: 5
+x: 37 y: 35
+Paths: 2
+Save: 5
+Pre-save: 6
+x: 37 y: 34
+Paths: 2
+Save: 6
+Pre-save: 7
+x: 37 y: 33
+Paths: 2
+Save: 7
+Pre-save: 8
+x: 34 y: 36
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 34 y: 35
+Paths: 2
+Save: 0
+Pre-save: 1
+x: 34 y: 34
+Paths: 2
+Save: 1
+Pre-save: 2
+x: 34 y: 33
+Paths: -3
+Save: 2
+Pre-save: 2
+x: 34 y: 2
+Paths: -3
+Save: 0
+Pre-save: 0
+x: 34 y: 3
+Paths: 2
+Save: 0
+Pre-save: 1
+x: 34 y: 4
+Paths: 2
+Save: 1
+Pre-save: 2
+x: 34 y: 5
+Paths: 2
+Save: 2
+Pre-save: 3
+x: 34 y: 6
+Paths: 2
+Save: 3
+Pre-save: 4
+x: 34 y: 7
+Paths: 2
+Save: 4
+Pre-save: 5
+x: 34 y: 8
+Paths: 2
+Save: 5
+Pre-save: 6
+x: 34 y: 9
+Paths: 2
+Save: 6
+Pre-save: 7
+x: 34 y: 10
+Paths: 2
+Save: 7
+Pre-save: 8
+x: 34 y: 11
+Paths: 2
+Save: 8
+Pre-save: 9
+x: 34 y: 12
+Paths: 2
+Save: 9
+Pre-save: 10
+x: 34 y: 13
+Paths: 2
+Save: 10
+Pre-save: 11
+x: 34 y: 14
+Paths: 2
+Save: 11
+Pre-save: 12
+x: 34 y: 15
+Paths: 2
+Save: 12
+Pre-save: 13
+x: 34 y: 16
+Paths: 2
+Save: 13
+Pre-save: 14
+x: 34 y: 17
+Paths: 2
+Save: 14
+Pre-save: 15
+x: 34 y: 18
+Paths: 2
+Save: 15
+Pre-save: 16
+x: 34 y: 19
+Paths: 2
+Save: 16
+Pre-save: 17
+x: 34 y: 20
+Paths: 2
+Save: 17
+Pre-save: 18
+x: 34 y: 21
+Paths: 2
+Save: 18
+Pre-save: 19
+x: 34 y: 22
+Paths: 2
+Save: 19
+Pre-save: 20
+x: 34 y: 23
+Paths: 2
+Save: 20
+Pre-save: 21
+x: 34 y: 24
+Paths: 2
+Save: 21
+Pre-save: 22
+x: 34 y: 25
+Paths: 2
+Save: 22
+Pre-save: 23
+x: 34 y: 26
+Paths: 2
+Save: 23
+Pre-save: 24
+x: 34 y: 27
+Paths: 2
+Save: 24
+Pre-save: 25
+x: 34 y: 28
+Paths: 2
+Save: 25
+Pre-save: 26
+x: 34 y: 29
+Paths: 2
+Save: 26
+Pre-save: 27
+x: 34 y: 30
+Paths: 2
+Save: 27
+Pre-save: 28
+x: 34 y: 31
+Paths: -3
+Save: 28
+Pre-save: 28
+x: 34 y: 32
+Paths: 3
+Save: 28
+Pre-save: 29
+x: 35 y: 32
+Paths: -3
+Save: 29
+Pre-save: 29
+x: 36 y: 32
+Paths: -3
+Save: 29
+Pre-save: 29
+x: 37 y: 32
+Paths: 2
+Save: 29
+Pre-save: 30
+x: 37 y: 31
+Paths: 2
+Save: 30
+Pre-save: 31
+x: 37 y: 30
+Paths: 2
+Save: 31
+Pre-save: 32
+x: 37 y: 29
+Paths: 2
+Save: 32
+Pre-save: 33
+x: 37 y: 28
+Paths: 2
+Save: 33
+Pre-save: 34
+x: 37 y: 27
+Paths: 2
+Save: 34
+Pre-save: 35
+x: 37 y: 26
+Paths: 2
+Save: 35
+Pre-save: 36
+x: 37 y: 25
+Paths: 2
+Save: 36
+Pre-save: 37
+x: 37 y: 24
+Paths: 2
+Save: 37
+Pre-save: 38
+x: 37 y: 23
+Paths: 2
+Save: 38
+Pre-save: 39
+x: 37 y: 22
+Paths: 2
+Save: 39
+Pre-save: 40
+x: 37 y: 21
+Paths: 2
+Save: 40
+Pre-save: 41
+x: 37 y: 20
+Paths: 2
+Save: 41
+Pre-save: 42
+x: 37 y: 19
+Paths: 2
+Save: 42
+Pre-save: 43
+x: 37 y: 18
+Paths: 2
+Save: 43
+Pre-save: 44
+x: 37 y: 17
+Paths: 2
+Save: 44
+Pre-save: 45
+x: 37 y: 16
+Paths: 2
+Save: 45
+Pre-save: 46
+x: 37 y: 15
+Paths: 2
+Save: 46
+Pre-save: 47
+x: 37 y: 14
+Paths: 2
+Save: 47
+Pre-save: 48
+x: 37 y: 13
+Paths: 2
+Save: 48
+Pre-save: 49
+x: 37 y: 12
+Paths: 2
+Save: 49
+Pre-save: 50
+x: 37 y: 11
+Paths: 2
+Save: 50
+Pre-save: 51
+x: 37 y: 10
+Paths: 2
+Save: 51
+Pre-save: 52
+x: 37 y: 9
+Paths: 2
+Save: 52
+Pre-save: 53
+x: 37 y: 8
+Paths: 2
+Save: 53
+Pre-save: 54
+x: 37 y: 7
+Paths: 2
+Save: 54
+Pre-save: 55
+x: 37 y: 6
+Paths: 2
+Save: 55
+Pre-save: 56
+x: 37 y: 5
+Paths: 2
+Save: 56
+Pre-save: 57
+x: 37 y: 4
+Paths: 2
+Save: 57
+Pre-save: 58
+x: 37 y: 3
+Paths: 2
+Save: 58
+Pre-save: 59
+x: 37 y: 2
+Paths: 2
+Save: 59
+Pre-save: 60
+x: 37 y: 1
+Paths: 2
+Save: 60
+Pre-save: 61
+x: 37 y: 0
+Paths: -3
+Save: 61
+Pre-save: 61
+x: 36 y: 0
+Paths: -3
+Save: 61
+Pre-save: 61
+x: 35 y: 0
+Paths: -3
+Save: 61
+Pre-save: 61
+x: 34 y: 0
+Paths: -3
+Save: 61
+Pre-save: 61
+x: 33 y: 0
+Paths: -3
+Save: 61
+Pre-save: 61
+x: 32 y: 0
+Paths: 2
+Save: 61
+Pre-save: 62
+x: 31 y: 0
+Paths: -3
+Save: 62
+Pre-save: 62
+x: 30 y: 0
+Paths: -3
+Save: 62
+Pre-save: 62
+x: 29 y: 0
+Paths: -3
+Save: 62
+Pre-save: 62
+x: 28 y: 0
+Paths: 2
+Save: 62
+Pre-save: 63
+x: 28 y: 1
+Paths: -3
+Save: 63
+Pre-save: 63
+x: 28 y: 2
+Paths: 3
+Save: 63
+Pre-save: 64
+x: 28 y: 3
+Paths: -3
+Save: 64
+Pre-save: 64
+x: 28 y: 4
+Paths: 2
+Save: 64
+Pre-save: 65
+x: 28 y: 5
+Paths: 2
+Save: 65
+Pre-save: 66
+x: 28 y: 6
+Paths: 2
+Save: 66
+Pre-save: 67
+x: 28 y: 7
+Paths: 2
+Save: 67
+Pre-save: 68
+x: 28 y: 8
+Paths: 2
+Save: 68
+Pre-save: 69
+x: 28 y: 9
+Paths: 2
+Save: 69
+Pre-save: 70
+x: 28 y: 10
+Paths: 2
+Save: 70
+Pre-save: 71
+x: 28 y: 11
+Paths: 2
+Save: 71
+Pre-save: 72
+x: 28 y: 12
+Paths: 2
+Save: 72
+Pre-save: 73
+x: 28 y: 13
+Paths: 2
+Save: 73
+Pre-save: 74
+x: 28 y: 14
+Paths: 2
+Save: 74
+Pre-save: 75
+x: 28 y: 15
+Paths: 2
+Save: 75
+Pre-save: 76
+x: 28 y: 16
+Paths: 2
+Save: 76
+Pre-save: 77
+x: 28 y: 17
+Paths: 2
+Save: 77
+Pre-save: 78
+x: 28 y: 18
+Paths: 2
+Save: 78
+Pre-save: 79
+x: 28 y: 19
+Paths: 2
+Save: 79
+Pre-save: 80
+x: 28 y: 20
+Paths: 2
+Save: 80
+Pre-save: 81
+x: 28 y: 21
+Paths: 2
+Save: 81
+Pre-save: 82
+x: 28 y: 22
+Paths: 2
+Save: 82
+Pre-save: 83
+x: 28 y: 23
+Paths: 2
+Save: 83
+Pre-save: 84
+x: 28 y: 24
+Paths: 2
+Save: 84
+Pre-save: 85
+x: 28 y: 25
+Paths: 2
+Save: 85
+Pre-save: 86
+x: 28 y: 26
+Paths: 2
+Save: 86
+Pre-save: 87
+x: 28 y: 27
+Paths: 2
+Save: 87
+Pre-save: 88
+x: 28 y: 28
+Paths: 2
+Save: 88
+Pre-save: 89
+x: 28 y: 29
+Paths: 2
+Save: 89
+Pre-save: 90
+x: 28 y: 30
+Paths: 2
+Save: 90
+Pre-save: 91
+x: 28 y: 31
+Paths: 2
+Save: 91
+Pre-save: 92
+x: 28 y: 32
+Paths: 2
+Save: 92
+Pre-save: 93
+x: 28 y: 33
+Paths: 2
+Save: 93
+Pre-save: 94
+x: 28 y: 34
+Paths: 2
+Save: 94
+Pre-save: 95
+x: 28 y: 35
+Paths: 2
+Save: 95
+Pre-save: 96
+x: 28 y: 36
+Paths: 2
+Save: 96
+Pre-save: 97
+x: 28 y: 37
+Paths: -3
+Save: 97
+Pre-save: 97
+x: 28 y: 38
+Paths: 3
+Save: 97
+Pre-save: 98
+x: 29 y: 38
+Paths: -3
+Save: 98
+Pre-save: 98
+x: 30 y: 38
+Paths: -3
+Save: 98
+v: 98
